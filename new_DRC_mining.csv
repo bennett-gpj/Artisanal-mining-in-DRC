@@ -1,0 +1,1049 @@
+Unnamed: 0,name,visit_date,province,workers_numb,mineral1,mineral2,mineral3,mercury,interference,armed_group1,armed_group2,armed_group3,state_service1,state_service2,state_service3,state_service4,childunder15work
+1,Santa-Maria,2022-07-05,Ituri,280,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,
+2,Libreville,2022-06-29,Ituri,1500,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,ANR,Chefferie,
+3,Adombi,2022-06-28,Ituri,120,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,DGI,Chefferie,"Concassage, Lavage, Traiter les déchets"
+4,Canon,2022-06-28,Ituri,10,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,"Plongeur, Traiter les déchets"
+5,Mopa,2022-06-29,Ituri,284,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,ANR,"Concassage, Lavage, Traiter les déchets"
+6,Mabele-Mokonzi,2022-06-26,Ituri,820,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,ANR,DGM,"Creuser, Concassage, Lavage, Traiter les déchets"
+7,Mbuji-Maï,2022-06-27,Ituri,1200,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,ANR,DGM,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+8,Monde Arabe,2022-06-27,Ituri,40,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,ANR,Chefferie,Traiter les déchets
+9,Vatican,2022-06-27,Ituri,300,Or,,,Observed,None observed,,,,FFN,SAEMAPE,Division des mines,ANR,"Creuser, Lavage, Traiter les déchets"
+10,Manzidaka,2022-07-12,Ituri,27,Or,,,Observed,None observed,,,,,,,,
+11,La Grâce,2022-07-06,Ituri,185,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,DGI,"Environnement, Énergie, DGRPI, Économie, FARDC",
+12,Indi,2022-07-06,Ituri,100,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,"Concassage, Lavage, Traiter les déchets"
+13,Niania riche,2022-06-20,Ituri,45,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,,,,,
+14,Cinquantenaire (SOMIBAF),2021-07-13,Ituri,60,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets"
+15,Mont Ngaliema,2021-07-12,Ituri,10,Or,,,None observed,Observed,FARDC,,,,,,,
+16,Mabukulu,2021-07-09,Ituri,20,Or,,,None observed,Observed,FARDC,,,,,,,"Creuser, Lavage, Traiter les déchets"
+17,Togo,2021-07-08,Ituri,60,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets"
+18,Kanzambu,2021-07-04,Ituri,60,Or,,,None observed,Observed,FARDC,Groupe de bandits armés non identifiés,,SAEMAPE,Division des mines,DGRPI (Direction Générale des recettes provinciales d'ituri),,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+19,Pede,2021-07-03,Ituri,85,Or,,,Observed,Observed,FARDC,Groupe de bandits armés non identifiés,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,
+20,Mandelendele,2021-09-28,Ituri,4,Or,,,None observed,Observed,FARDC,,,,,,,
+21,Mapeda,2021-09-25,Ituri,20,Or,,,None observed,Observed,FARDC,Groupe de bandits armés non identifiés,,,,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+22,Mandulu,2021-09-29,Ituri,30,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Creuser, Lavage, Traiter les déchets"
+23,Masikini,2021-07-18,Ituri,70,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri DGRPI)(,,
+24,Mane de guerre,2021-07-18,Ituri,33,Or,,,None observed,None observed,FARDC,,,,,,,
+25,Maroc,2021-09-20,Ituri,14,Or,,,None observed,Observed,FARDC,,,,,,,
+26,Disco,2021-09-23,Ituri,25,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+27,Camp Mambasa,2021-07-21,Ituri,12,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,
+28,Tindika,2021-07-02,Ituri,120,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+29,Makele,2021-06-19,Ituri,200,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciale d'ituri (DGRPI),,"Lavage, Transport des minerais, Traiter les déchets"
+30,Jerusalem,2021-06-16,Ituri,150,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,"Concassage, Transport des minerais, Traiter les déchets"
+31,Kotakoli,2021-06-18,Ituri,160,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,"Concassage, Lavage, Transport des minerais, Traiter les déchets"
+32,Masenze,2021-06-28,Ituri,21,Or,,,Observed,Observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+33,Mandimo 1,2021-06-27,Ituri,15,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+34,Mataha,2021-06-26,Ituri,28,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,Lavage
+35,Camp Base,2021-06-25,Ituri,20,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,
+36,Mandje,2021-06-28,Ituri,25,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+37,Mines,2021-08-15,Ituri,850,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,FFN,Afridex,"Creuser, Lavage, Transport des minerais, Usage du mercure, Dégrossir les minerais"
+38,Tsatsaku,2021-08-14,Ituri,630,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Afridex,FFN,"Transport des minerais, Dégrossir le minerai avant le broyage"
+39,Sandra Centre,2021-08-20,Ituri,67,Or,,,None observed,None observed,,,,Division des mines,FFN,Chefferie,Police des mines,"Creuser, Lavage, Transport des minerais"
+40,Baluma moteur,2021-08-17,Ituri,180,Or,,,None observed,None observed,,,,Division des mines,Afridex,Chefferie,,"Lavage, Transport des minerais, Ramasser les minerais dans la terre à la surface"
+41,Dilolo,2022-08-19,Ituri,120,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure, Ramasser les pierres à la surface"
+42,Vis à vis,2022-09-11,Ituri,230,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,"Lavage, Usage du mercure, Ramasser les pierres en surface pour ramener au broyage"
+43,Lele modi,2022-08-20,Ituri,320,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+44,Kolwezi,2022-08-23,Ituri,2600,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Afridex,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+45,Boma,2022-08-21,Ituri,1500,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+46,Kalemie,2022-09-07,Ituri,58,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage"
+47,Confluent Wele - Aru,2022-08-23,Ituri,0,Or,,,No data,None observed,,,,,,,,
+48,Kpangba I,2022-08-31,Ituri,87,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais"
+49,Awu Central,2022-09-12,Ituri,35,Or,,,None observed,Observed,Autodéfense Zaïre,,,,,,,"Creuser, Lavage"
+50,Uloo,2022-09-04,Ituri,0,Or,,,None observed,Observed,CODECO,,,,,,,
+51,Anzumu,2022-09-05,Ituri,180,Or,,,None observed,Observed,CODECO,Autodéfense Zaïre,,,,,,"Creuser, Lavage, Transport des minerais"
+52,Shaba,2022-08-28,Ituri,650,Or,,,Observed,Observed,FARDC,Autodéfense Zaïre,CODECO,,,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure, Ramasser les pierres à la surface pour ramener au broyage"
+53,Yey,2022-09-11,Ituri,0,Or,,,No data,None observed,,,,,,,,
+54,Apodo vieux sage,2022-09-10,Ituri,26,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais"
+55,Aru chute,2022-09-11,Ituri,0,Or,,,No data,None observed,,,,,,,,
+56,Mangala,2021-11-21,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+57,Lelemia,2021-11-21,Nord-Kivu,35,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+58,Gbado,2021-11-21,Nord-Kivu,18,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+59,Masikilizano,2021-11-20,Nord-Kivu,31,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+60,Lingitana,2021-11-23,Nord-Kivu,27,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+61,Kyatembo,2021-11-23,Nord-Kivu,35,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+62,Manzali,2021-11-20,Nord-Kivu,32,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+63,Byaboye,2021-11-19,Nord-Kivu,150,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+64,Bank,2021-11-22,Nord-Kivu,40,Or,,,None observed,None observed,,,,Chefferie,Division des mines,,,
+65,Bulongea,2021-11-22,Nord-Kivu,10,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+66,Kilonge,2021-11-25,Nord-Kivu,25,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+67,Eohe,2021-11-24,Nord-Kivu,75,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+68,Mwamba/Centrale,2021-12-08,Nord-Kivu,45,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+69,Della,2021-12-08,Nord-Kivu,31,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+70,Baobah,2021-12-07,Nord-Kivu,11,Or,,,None observed,Observed,FARDC,,,SAEMAPE,,,,
+71,Libération,2021-12-07,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+72,Zangalo,2021-12-07,Nord-Kivu,50,Or,,,None observed,Observed,FARDC,,,SAEMAPE,,,,
+73,Togo/Maroc,2021-12-09,Nord-Kivu,30,Or,,,None observed,Observed,FARDC,Maï-Maï Simba,,,,,,
+74,Makumo/Akwele/Maboyi/Libye,2021-12-09,Nord-Kivu,80,Or,,,None observed,Observed,FARDC,Maï-Maï Simba,,,,,,
+75,Mausi,2021-12-09,Nord-Kivu,13,Or,,,None observed,Observed,FARDC,Maï-Maï Simba,,,,,,
+76,Lubumbashi,2021-12-09,Nord-Kivu,50,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+77,Vatican/Kazana,2021-12-08,Nord-Kivu,32,Or,,,None observed,Observed,FARDC,,,SAEMAPE,,,,
+78,Mabanga,2021-11-26,Nord-Kivu,25,Or,,,None observed,None observed,,,,,,,,
+79,Mangazi,2021-11-26,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+80,Elowa,2021-11-27,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+81,Lenda,2021-11-27,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+82,Manjee/Etea/Bantebiye,2021-11-27,Nord-Kivu,10,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+83,Kigali,2021-11-27,Nord-Kivu,120,Coltan,,,No data,Observed,FARDC,,,,,,,
+84,Etaito/Amérique,2021-11-30,Nord-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+85,Monde Arabe,2021-12-01,Nord-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+86,Sendula,2021-12-01,Nord-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+87,Melia,2021-12-01,Nord-Kivu,16,Or,,,None observed,None observed,,,,Division des mines,,,,
+88,Paris soir,2021-12-01,Nord-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+89,Bulongo,2021-12-02,Nord-Kivu,15,Or,,,None observed,None observed,,,,,,,,
+90,Lima,2021-11-17,Nord-Kivu,60,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+91,Kibahuta,2022-01-26,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+92,Kyunamo,2022-01-26,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+93,Kyambambwe,2022-02-16,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+94,Kiviri/Tayna,2022-02-16,Nord-Kivu,78,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+95,Likuka,2022-02-16,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+96,Muhanga/Videndo,2022-02-16,Nord-Kivu,50,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+97,Musigha,2022-02-12,Nord-Kivu,12,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+98,Vunzengenere,2022-02-12,Nord-Kivu,3500,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,"Creuser, Creuser sous terre"
+99,Lutungulu,2022-02-11,Nord-Kivu,60,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+100,Ndihira/Kitsombiro,2022-02-19,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+101,Luate/Kagheri,2022-01-25,Nord-Kivu,100,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+102,Betlehem / Kyondo,2022-01-23,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+103,Kamasavu,2022-02-02,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+104,Kavukembe,2022-02-02,Nord-Kivu,28,Or,,,None observed,Observed,Maï-Maï Juvenal,,,,,,,
+105,Kamunyonge,2022-02-02,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+106,Katendere,2022-02-02,Nord-Kivu,85,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,,,,,
+107,Mambasi,2022-02-02,Nord-Kivu,70,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,SAEMAPE,,,,
+108,Kanaana,2022-02-02,Nord-Kivu,78,Or,,,Observed,Observed,FARDC,,,,,,,
+109,Gomora,2022-02-03,Nord-Kivu,96,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,,,,,
+110,Mayombiyo,2022-02-03,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+111,Vundande,2022-02-03,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+112,Mununze,2020-10-22,Nord-Kivu,60,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+113,Kiboto,2020-10-30,Nord-Kivu,75,Or,,,Observed,Observed,FARDC,UPLC,,SAEMAPE,Division des mines,,,
+114,Turura/Mabalakwa,2020-10-27,Nord-Kivu,38,Or,,,None observed,None observed,,,,Division des mines,SAEMAPE,,,
+115,Rubonga/Buhimba,2022-08-17,Nord-Kivu,95,Cassitérite,Coltan,Or,None observed,Observed,Maï-Maï APCLS,,,,,,,
+116,Bishasha,2021-10-09,Nord-Kivu,20,Wolframite,,,No data,None observed,,,,,,,,
+117,Kamatale,2021-10-11,Nord-Kivu,200,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser sous terre, Lavage"
+118,Mufunzi/Rutarishongo,2021-10-10,Nord-Kivu,16,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+119,D6 Mufunzi,2021-10-09,Nord-Kivu,40,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+120,Kinchimba,2023-03-23,Nord-Kivu,13,Or,,,None observed,Observed,NDC-R,,,,,,,
+121,Matungu,2023-03-22,Nord-Kivu,250,Or,,,Observed,Observed,FARDC,NDC-R,,SAEMAPE,DGI,,,
+122,Nyakarima,2023-03-25,Nord-Kivu,50,Or,,,None observed,Observed,NDC-R,,,,,,,
+123,Gbadolite,2023-03-20,Nord-Kivu,12,Or,,,None observed,Observed,NDC-R,,,,,,,
+124,Nyamungazi,2023-03-24,Nord-Kivu,16,Or,,,None observed,Observed,NDC-R,,,,,,,
+125,Bukacha,2023-03-11,Nord-Kivu,120,Or,,,None observed,Observed,FARDC,NDC-R,,,,,,
+126,Munjuli,2023-03-12,Nord-Kivu,75,Or,,,None observed,Observed,NDC-R,,,,,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+127,Kasara,2023-03-15,Nord-Kivu,23,Or,,,None observed,Observed,NDC-R,,,,,,,
+128,Katuonane,2023-03-15,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+129,Mafofoki1,2023-03-13,Nord-Kivu,1,Or,,,Observed,Observed,NDC-R,,,,,,,
+130,Titi,2023-03-11,Nord-Kivu,40,Or,,,None observed,Observed,NDC-R,,,,,,,
+131,Ikere,2023-03-16,Nord-Kivu,50,Or,,,None observed,Observed,NDC-R,,,,,,,
+132,Betobeto,2023-03-18,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+133,Charingwangwa Musenge,2023-03-18,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+134,Charingwangwa Mulema,2023-03-18,Nord-Kivu,22,Or,,,Observed,Observed,NDC-R,,,,,,,
+135,Tchunsu,2023-03-18,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+136,Beteli,2023-03-20,Nord-Kivu,70,Or,,,None observed,Observed,NDC-R,,,,,,,
+137,Irameso,2022-08-21,Nord-Kivu,450,Or,,,None observed,Observed,NDC-R,,,Division des mines,,,,
+138,Mufereji,2022-08-21,Nord-Kivu,156,Or,,,Observed,Observed,NDC-R,,,Division des mines,,,,
+139,Kasuka,2022-08-22,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+140,Mbubi,2022-08-21,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+141,Muribanse,2022-08-21,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+142,Misoke,2022-08-21,Nord-Kivu,504,Cassitérite,,,No data,Observed,NDC-R,,,,,,,
+143,Merci bakoko,2022-02-05,Nord-Kivu,25,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,OBLC,Transcom,
+144,Kanana,2022-02-05,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+145,Temps présent,2022-02-05,Nord-Kivu,216,Or,,,Observed,None observed,,,,SAEMAPE,Le service de l'environnement,,,
+146,Ibalasa,2021-10-04,Maniema,106,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+147,Kanyabayonga,2021-09-24,Maniema,235,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets, Usage du mercure"
+148,Kalukungu,2021-09-21,Maniema,135,Or,,,None observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+149,Omo bleu,2021-10-01,Maniema,140,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,DGI,"Creuser, Traiter les déchets, Machiniste de détecteur des métaux"
+150,Ogobinako,2022-07-29,Maniema,89,Cassitérite,,,No data,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+151,Amangandja,2022-07-30,Maniema,85,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+152,Faire part,2022-07-30,Maniema,0,Coltan,,,No data,None observed,,,,,,,,
+153,Kamiyeye,2022-07-30,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+154,Kasamoto,2022-07-30,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+155,Goma,2022-07-26,Maniema,0,Or,,,No data,None observed,,,,,,,,
+156,Madjiwe,2022-07-26,Maniema,0,Or,,,No data,None observed,,,,,,,,
+157,Dibaloba/Kima,2022-07-26,Maniema,90,Or,,,Observed,Observed,FARDC,FARDC,,SAEMAPE,Division des mines,,ANR,
+158,Atwamani,2022-07-26,Maniema,280,Or,,,Observed,Observed,FARDC,FARDC,,SAEMAPE,Division des mines,ANR,DGM,
+159,Simbizi,2022-07-26,Maniema,0,Or,,,No data,None observed,,,,,,,,
+160,Kasengene,2022-07-31,Maniema,0,Or,Cassitérite,,No data,None observed,,,,,,,,
+161,Tambulamalembe,2022-07-31,Maniema,0,Or,,,No data,None observed,,,,,,,,
+162,Gboto,2022-02-24,Maniema,67,Or,,,Observed,None observed,,,,Division des mines,,,,
+163,Malimingi I,2022-02-24,Maniema,0,Or,,,No data,None observed,,,,,,,,
+164,Ekololo,2022-02-24,Maniema,0,Or,,,No data,None observed,,,,,,,,
+165,Masaba II,2022-02-24,Maniema,0,Diamant,,,No data,None observed,,,,,,,,
+166,Mubunge,2022-02-24,Maniema,0,Or,,,No data,None observed,,,,,,,,
+167,Katanga,2022-02-26,Maniema,60,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+168,Hewa bora,2022-02-26,Maniema,65,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+169,Boma,2022-02-26,Maniema,72,Cassitérite,,,No data,None observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+170,Ungbe,2022-03-04,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+171,Tshamaka 3,2022-03-04,Maniema,89,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets, Exploitent sur le lit de rivières après la pluie."
+172,Tshamaka 2,2022-03-04,Maniema,130,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+173,Amakinga,2022-03-04,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+174,Gonga,2022-03-04,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+175,Kakota 1,2022-03-04,Maniema,75,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+176,Lubondozi 3,2021-12-03,Maniema,0,Or,,,No data,None observed,,,,,,,,
+177,Katamu,2021-12-05,Maniema,0,Or,,,No data,None observed,,,,,,,,
+178,Kimabwe 1,2021-12-05,Maniema,0,Or,,,No data,None observed,,,,,,,,
+179,Lubondozi 1,2021-12-01,Maniema,85,Or,,,None observed,Observed,FARDC,Maï-Maï Malaika,,SAEMAPE,Division des mines,,,
+180,Katoto/Kimabwe,2021-12-03,Maniema,125,Or,,,None observed,Observed,FARDC,Maï-Maï Malaika,,SAEMAPE,Division des mines,,,
+181,Amabidi,2022-07-21,Maniema,185,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,Groupement,DGRMA,
+182,Malewa,2022-07-21,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+183,Ketamu wafanya bien,2022-07-21,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+184,Boma,2022-07-23,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+185,Katanga III,2022-07-24,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+186,Katanga I,2022-07-23,Maniema,75,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,ANR,"Creuser, Lavage, Traiter les déchets"
+187,Katanga II,2022-07-23,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+188,Ocean,2022-07-23,Maniema,103,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+189,Simunofu,2022-07-23,Maniema,87,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,ANR,"Lavage, Traiter les déchets"
+190,Kamabeya,2022-07-23,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+191,Metsera,2022-08-04,Maniema,140,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+192,Niveau 120/Lonyoma,2022-08-03,Maniema,75,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+193,B49,2022-08-03,Maniema,160,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+194,Nyakilego,2022-08-22,Sud-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+195,Kamabondo,2021-10-28,Sud-Kivu,40,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+196,Cubage Centre,2021-10-26,Sud-Kivu,100,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+197,Tokolonga,2021-11-10,Sud-Kivu,15,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+198,Moba 1,2021-11-05,Sud-Kivu,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,"Traiter les déchets, Transport des cailloux vers le concasseur"
+199,Kanyuki,2021-11-08,Sud-Kivu,600,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets"
+200,Tusongembele,2021-11-08,Sud-Kivu,50,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,
+201,Lukonyala,2021-11-06,Sud-Kivu,300,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,
+202,Pembeliba,2021-11-15,Sud-Kivu,24,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,Creuser
+203,Kaneto 2,2021-11-12,Sud-Kivu,30,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,
+204,Kaneto 1,2021-11-13,Sud-Kivu,8,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,
+205,Ibonga/Mungole,2022-08-25,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+206,Mulolo,2021-11-30,Sud-Kivu,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+207,Libaku ya suka,2022-08-29,Sud-Kivu,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Lavage, Traiter les déchets, Usage du mercure"
+208,Kagolo Masanga,2022-08-31,Sud-Kivu,80,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Anti-fraude,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+209,Binenke,2022-09-03,Sud-Kivu,30,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+210,Matamba,2021-05-19,Sud-Kivu,0,Cassitérite,Coltan,,No data,Observed,Raïa Mutomboki,,,,,,,
+211,Swiza,2021-05-18,Sud-Kivu,0,Cassitérite,,,No data,Observed,Raïa Mutomboki,,,,,,,
+212,Tchelamazi,2021-05-19,Sud-Kivu,15,Cassitérite,Coltan,,No data,Observed,Raïa Mutomboki,,,,,,,
+213,Tukutu,2021-05-24,Sud-Kivu,300,Cassitérite,Coltan,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Creuser sous terre"
+214,Kansele,2021-05-28,Sud-Kivu,32,Coltan,Cassitérite,,No data,Observed,FARDC,Raïa Mutomboki,,,,,,"Concassage, Traiter les déchets"
+215,Luguguma,2021-10-30,Sud-Kivu,56,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+216,Kasangwa,2021-11-18,Sud-Kivu,12,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,
+217,Camp Nsoko,2021-11-18,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+218,Lumbuzi,2021-11-09,Sud-Kivu,18,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+219,Katuto,2022-01-22,Sud-Kivu,20,Or,,,None observed,None observed,,,,,,,,
+220,Kayemba,2022-01-28,Sud-Kivu,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Anti-fraude,"Creuser, Lavage, Traiter les déchets"
+221,Mumbunde,2022-01-28,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+222,Bahombo/Kalutindi,2022-01-26,Sud-Kivu,250,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,
+223,Kaminkya/Koweit,2022-01-26,Sud-Kivu,30,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Anti-fraude,,Creuser
+224,Mont Ngaliema,2022-02-10,Sud-Kivu,60,Or,,,None observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,
+225,Kabitako,2022-02-10,Sud-Kivu,200,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Environnement,,
+226,Nyamikundu/Ngoyi,2022-02-11,Sud-Kivu,50,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+227,Nyamasani,2022-01-01,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+228,Kisangani,2022-02-12,Sud-Kivu,800,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),Maï-Maï Malaika,SAEMAPE,Division des mines,Chefferie,Groupement,
+229,Katuzu,2021-10-15,Sud-Kivu,120,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+230,Kiziba,2021-10-15,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+231,Nyasa,2021-10-08,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+232,Kilunga,2021-10-06,Sud-Kivu,60,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+233,Kolo,2021-10-06,Sud-Kivu,20,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+234,Simali,2021-09-29,Sud-Kivu,100,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,Groupement,"Lavage, Traiter les déchets"
+235,Carrière A Tuliona,2021-09-28,Sud-Kivu,350,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Groupement,
+236,Carrière D 18 Sud/Kasopo,2021-10-07,Sud-Kivu,1000,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,"Concassage, Lavage, Traiter les déchets"
+237,Carrière G7 Sud,2021-09-30,Sud-Kivu,110,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Groupement,
+238,Poudrier,2021-09-27,Sud-Kivu,200,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+239,Carrière G7 Nord,2021-09-30,Sud-Kivu,500,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Groupement,Creuser
+240,Carrière G3,2021-10-01,Sud-Kivu,500,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Groupement,
+241,Njolinjoli,2021-10-01,Sud-Kivu,300,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,Groupement,"Creuser, Lavage"
+242,Bivuye,2021-10-04,Sud-Kivu,1000,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+243,Makalanga,2021-10-02,Sud-Kivu,50,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+244,Kakulu,2023-03-03,Sud-Kivu,130,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+245,Zombe,2023-03-08,Sud-Kivu,500,Cassitérite,,,No data,Observed,Maï-Maï Lwesula,,,SAEMAPE,Division des mines,Chefferie,,
+246,Kamosho/Nord-Est,2021-09-25,Sud-Kivu,100,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+247,Nyangoma Wananzo,2021-10-11,Sud-Kivu,15,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+248,Wameli,2021-10-07,Sud-Kivu,70,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+249,Kagolomba,2021-10-06,Sud-Kivu,150,Or,Cassitérite,,Observed,Observed,FARDC,,,Division des mines,SAEMAPE,Anti-fraude,Chefferie,"Lavage, Traiter les déchets"
+250,Kyamilemba,2021-10-07,Sud-Kivu,80,Or,Cassitérite,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,"Creuser, Lavage, Usage du mercure"
+251,Kalekwa,2021-10-09,Sud-Kivu,120,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,"Creuser, Lavage"
+252,Ontario,2021-10-01,Sud-Kivu,60,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,Lavage
+253,Camp ibulungu,2021-09-30,Sud-Kivu,50,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,"Lavage, Traiter les déchets, Usage du mercure"
+254,Luwawa/Karonza,2021-09-29,Sud-Kivu,12,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+255,Ntangila,2021-09-27,Sud-Kivu,80,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+256,Waninki,2021-09-28,Sud-Kivu,23,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+257,Kabereke,2021-09-26,Sud-Kivu,50,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+258,Museka,2022-09-24,Sud-Kivu,150,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Anti-fraude,Chefferie,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+259,Buzumbura (1 et 2),2022-09-23,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+260,Bujumbura,2022-09-22,Sud-Kivu,200,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Anti-fraude,Chefferie,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+261,Itabi,2023-03-13,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+262,Bikolongo,2023-03-13,Sud-Kivu,180,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+263,Bofutakasheshe-Kamba,2022-01-01,Sud-Kivu,0,Or,Wolframite,,No data,None observed,,,,,,,,
+264,Ngandjo,2022-01-01,Sud-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+265,Kitendebwa,2022-01-26,Sud-Kivu,20,Or,,,None observed,Observed,Raïa Mutomboki,,,SAEMAPE,Division des mines,,,"Creuser sous terre, Lavage"
+266,Lijiwe 2/Mbesho,2022-01-24,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,Creuser
+267,Lijiwe,2022-01-24,Sud-Kivu,35,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+268,Nyawarongo,2022-01-15,Sud-Kivu,50,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+269,Nyawaronga centre,2022-01-15,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+270,Kaitolea Cabangi,2022-01-20,Sud-Kivu,65,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+271,Witende,2022-01-21,Sud-Kivu,45,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+272,Kahirenge,2022-01-21,Sud-Kivu,150,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+273,Kairenge II,2022-01-01,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+274,Chez Madame,2021-05-14,Sud-Kivu,10,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+275,Central,2021-05-15,Sud-Kivu,75,Cassitérite,Tourmaline,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+276,Biriki,2021-06-03,Sud-Kivu,40,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+277,Misumari,2021-06-01,Sud-Kivu,30,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+278,Mungwe,2021-06-02,Sud-Kivu,15,Coltan,Manganèse,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+279,Katandari,2021-05-28,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+280,Rubona,2021-06-03,Sud-Kivu,120,Or,Tourmaline,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+281,Kavumu,2021-05-29,Sud-Kivu,25,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+282,Mashango,2021-05-19,Sud-Kivu,70,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+283,Fangere,2021-05-18,Sud-Kivu,105,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+284,Bishaka,2022-01-17,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+285,Kironge,2022-01-17,Sud-Kivu,20,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+286,Mwamidjui,2022-01-16,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,Creuser
+287,Bikunda,2022-01-18,Sud-Kivu,50,Or,Cassitérite,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+288,Kasese 1,2022-01-22,Sud-Kivu,30,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+289,Kasese 2,2022-01-22,Sud-Kivu,50,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+290,Kanyanja,2022-01-22,Sud-Kivu,6,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+291,Mushangi D8,2022-07-13,Sud-Kivu,150,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+292,Colline 6,2022-07-22,Sud-Kivu,65,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+293,Colline 1,2022-07-21,Sud-Kivu,60,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+294,Misheke G18,2022-07-26,Sud-Kivu,600,Cassitérite,,,No data,None observed,,,,SAEMAPE,Chefferie,Chefferie,,
+295,Kilima Kwale,2022-07-23,Sud-Kivu,100,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+296,Bushushu,2022-07-23,Sud-Kivu,50,Wolframite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+297,Namadava,2022-07-27,Sud-Kivu,50,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+298,Zolazola D23,2022-07-13,Sud-Kivu,120,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage"
+299,Muhinga,2022-07-18,Sud-Kivu,70,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser sous terre, Concassage, Lavage"
+300,Sebwa-Lukoma,2022-07-16,Sud-Kivu,383,Cassitérite,,,No data,Observed,Raïa Mutomboki,,,Chefferie,,,,
+301,Rwamakaza,2022-07-16,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+302,Mufa,2022-08-02,Sud-Kivu,90,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+303,Kalongo,2022-08-01,Sud-Kivu,50,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+304,Chidira,2022-07-30,Sud-Kivu,60,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+305,Nyamurhale/Lubona,2022-07-09,Sud-Kivu,340,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Concassage, Lavage"
+306,Mukungwe,2022-08-03,Sud-Kivu,1500,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais"
+307,Chinda,2022-07-29,Sud-Kivu,0,Cassitérite,Wolframite,,No data,None observed,,,,,,,,
+308,Chinda 2,2022-07-29,Sud-Kivu,85,Or,Wolframite,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+309,Cishembe,2022-07-29,Sud-Kivu,0,Cassitérite,Or,,No data,None observed,,,,,,,,
+310,Nyakabindi,2022-07-09,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+311,Nyampeho,2022-07-25,Sud-Kivu,50,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+312,Chaminyago,2022-07-11,Sud-Kivu,120,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Lavage, Traiter les déchets"
+313,Rhana,2022-07-12,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+314,Ma Boutiques,2021-05-30,Sud-Kivu,22,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Creuser, Lavage, Traiter les déchets"
+315,Kapanga,2021-05-26,Sud-Kivu,42,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,Traiter les déchets
+316,Deux Maisons,2021-05-25,Sud-Kivu,127,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Lavage, Traiter les déchets"
+317,Idjwi,2021-06-02,Sud-Kivu,18,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,
+318,Kenya,2021-05-23,Sud-Kivu,150,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,
+319,Bisembe,2021-06-03,Sud-Kivu,15,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,,,
+320,Kimbi,2021-09-22,Sud-Kivu,105,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Village,CNLFM,"Creuser, Lavage, Traiter les déchets"
+321,Lumbwe II,2021-12-14,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+322,Lwiko dredges,2021-12-14,Maniema,0,Or,,,No data,None observed,,,,,,,,
+323,Tolongwa,2021-12-06,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+324,Etunga,2021-10-04,Sud-Kivu,100,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Village,CNLFM,
+325,Marenge,2021-09-30,Tanganyika,920,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,,SAEMAPE,Division des mines,Village,CNLFM,"Creuser, Lavage, Traiter les déchets"
+326,Kitumba,2023-03-08,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+327,Kabanja,2023-03-07,Sud-Kivu,74,Or,,,None observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+328,Masunga,2023-03-07,Sud-Kivu,48,Or,,,None observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+329,Rutabataba 1 (ancien site TransAfrica),2023-03-07,Sud-Kivu,37,Or,,,None observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+330,Rutabataba 2,2023-03-07,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+331,Rugezi,2023-03-08,Sud-Kivu,63,Or,,,None observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+332,Michikachika,2023-03-03,Sud-Kivu,35,Or,,,Observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+333,Kahila,2023-03-07,Sud-Kivu,10,Or,,,None observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+334,Namulombwe,2023-03-07,Sud-Kivu,6,Or,,,None observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+335,Bigaragara,2023-03-07,Sud-Kivu,110,Or,,,Observed,Observed,FABB (Forces Armées Biloze Bishambuki),Ngomino,,,,,,
+336,Kenya,2023-02-27,Sud-Kivu,150,Or,,,None observed,Observed,Ngomino,,,,,,,
+337,Filon 14 (Lwemba),2023-02-19,Sud-Kivu,75,Or,,,Observed,Observed,Maï-Maï Mutetezi,,,SAEMAPE,Division des mines,,,
+338,Malewa,2022-10-01,Tanganyika,1000,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Groupement,,
+339,Jogo/La mort/Ocean,2022-09-26,Tanganyika,354,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,,Groupement,
+340,Bovu,2022-09-13,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+341,Usinikorege,2022-09-06,Tanganyika,25,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,,,,
+342,Mamba,2022-09-28,Tanganyika,0,Or,,,No data,None observed,,,,,,,,
+343,Mutotolwa,2022-02-20,Tanganyika,26,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Groupement,"Transport des minerais, Traiter les déchets"
+344,Kampunzu/Camp Nord,2022-02-24,Tanganyika,107,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Groupement,
+345,Mpama,2022-02-17,Tanganyika,200,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Groupement,
+346,Kabusano,2022-02-19,Tanganyika,0,Or,,,No data,None observed,,,,,,,,
+347,Kazombwe,2022-02-26,Tanganyika,30,Or,,,Observed,None observed,FARDC,,,ANR,Division des mines,,Groupement,
+348,Ntoya/Kantipa,2022-02-07,Tanganyika,66,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,Traiter les déchets
+349,Tokomeka,2022-08-03,Maniema,0,Wolframite,,,No data,None observed,,,,,,,,
+350,Lubolola/Misoke,2023-03-19,Maniema,407,Cassitérite,Wolframite,,No data,Observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+351,Lengwe,2022-01-01,Tanganyika,0,Cassitérite,,,No data,None observed,,,,,,,,
+352,Kavuta,2021-10-03,Nord-Kivu,50,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+353,Tchembeke,2022-07-15,Sud-Kivu,80,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+354,Bipemba 1 kitamuna,2023-03-11,Maniema,0,Or,,,No data,None observed,,,,,,,,
+355,Bimpemba,2023-03-11,Maniema,95,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+356,Bukavu ya Bunga,2023-03-11,Maniema,160,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+357,Ekubuka kitamuna,2023-03-11,Maniema,0,Or,,,No data,None observed,,,,,,,,
+358,Siera kitamuna,2023-03-11,Maniema,0,Or,,,No data,None observed,,,,,,,,
+359,4 kilomètre,2022-09-04,Tanganyika,90,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,Groupement,"Creuser, Lavage, Traiter les déchets"
+360,Atwamani 1,2022-07-26,Maniema,0,Or,,,No data,None observed,,,,,,,,
+361,Atwamani 2,2022-07-26,Maniema,0,Or,,,No data,None observed,,,,,,,,
+362,Matongo Bujana,2022-08-31,Tanganyika,73,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+363,Cadeza,2022-09-23,Tanganyika,62,Or,,,Observed,Observed,Maï-Maï Hapa na pale,,,,,,,
+364,Centrale kitamuna,2023-03-13,Maniema,137,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+365,Debic,2022-09-13,Tanganyika,27,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,,,,"Creuser, Lavage, Traiter les déchets"
+366,Kalomola 1 kitamuna,2023-03-13,Maniema,0,Or,,,No data,None observed,,,,,,,,
+367,Kalomola 2 kitamuna,2023-03-13,Maniema,0,Or,,,No data,None observed,,,,,,,,
+368,Katato,2022-09-02,Tanganyika,75,Coltan,,,No data,None observed,FARDC,,,SAEMAPE,,,,"Creuser, Lavage"
+369,Kima,2022-07-26,Maniema,130,Or,,,Observed,Observed,FARDC,FARDC,,SAEMAPE,Division des mines,DGRMA,,"Creuser, Lavage, Traiter les déchets"
+370,Kisimba mombo,2022-09-08,Tanganyika,6,Coltan,,,No data,Observed,FARDC,Maï-Maï Hapa na pale,,,,,,
+371,La vie,2022-09-01,Tanganyika,397,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,ANR,"Lavage, Traiter les déchets"
+372,Liboka,2022-09-11,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+373,Lisala,2021-09-19,Ituri,6,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+374,Mala,2021-11-12,Tanganyika,113,Or,,,Observed,Observed,FARDC,Maï-Maï Bitonto,,SAEMAPE,Division des mines,Chefferie,,
+375,Mambalu,2022-02-10,Nord-Kivu,55,Or,Cassitérite,,Observed,None observed,,,,SAEMAPE,Division des mines,,Service d'environnement et L'OBLC( Office pour la bonne gouvernance et la lutte contre la corruption),
+376,Manjaga,2021-11-24,Nord-Kivu,0,Coltan,Or,,No data,None observed,,,,,,,,
+377,Mili,2022-02-10,Nord-Kivu,44,Cassitérite,Or,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+378,Mitondo,2021-09-29,Sud-Kivu,1500,Or,,,Observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Secteur,CNLFM,
+379,Musebe 2,2022-08-31,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+380,Musubi,2022-09-27,Tanganyika,0,Or,,,No data,None observed,,,,,,,,
+381,Pitise,2021-11-26,Nord-Kivu,72,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+382,Sans souci,2021-09-18,Ituri,20,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Creuser, Lavage, Traiter les déchets"
+383,Stade /murefu,2022-09-08,Tanganyika,185,Coltan,,,No data,Observed,FARDC,Maï-Maï Hapa na pale,,SAEMAPE,,,,"Creuser, Lavage, Traiter les déchets"
+384,Wemba,2022-09-10,Tanganyika,74,Coltan,,,No data,Observed,FARDC,Maï-Maï Hapa na pale,,,,,,"Creuser, Lavage, Traiter les déchets"
+385,Mbigili/Zongwe,2022-09-27,Tanganyika,42,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Groupement,,
+386,Filon II,2021-05-17,Sud-Kivu,250,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+387,Mahamba,2022-07-11,Sud-Kivu,80,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Lavage, Traiter les déchets"
+388,Malumbenze,2021-11-30,Nord-Kivu,16,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+389,Masingi,2021-11-17,Nord-Kivu,0,Coltan,,,No data,None observed,,,,,,,,
+390,Makumo,2021-11-05,Tshopo,8,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,ANR,,
+391,Mankenga,2022-02-19,Maniema,350,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,ANR,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+392,Mawamba,2021-06-24,Ituri,30,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Concassage, Lavage, Transport des minerais"
+393,Mulunguyi,2021-11-25,Tanganyika,700,Or,,,Observed,Observed,FARDC,Maï-Maï Apa Na Pale,,SAEMAPE,Division des mines,,Groupement,Transport des minerais
+394,Obea,2022-07-20,Maniema,92,Cassitérite,,,No data,None observed,FARDC,,,SAEMAPE,,,,"Creuser, Lavage"
+395,Alima 1,2020-10-25,Nord-Kivu,120,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+396,Kakenge,2021-06-04,Sud-Kivu,55,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+397,Kitasha,2023-02-21,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+398,Cantine,2020-10-22,Nord-Kivu,56,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+399,Lubichako,2021-09-25,Sud-Kivu,266,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Anti-fraude,Secteur,"Creuser, Lavage"
+400,Lulimba,2021-09-21,Sud-Kivu,245,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,ANR,Localité,"Creuser, Lavage, Traiter les déchets, Cuisinent pour les creuseurs"
+401,Luntukulu,2022-07-28,Sud-Kivu,40,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+402,Centrale,2020-10-23,Nord-Kivu,58,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+403,Maziba,2022-07-13,Sud-Kivu,0,Cassitérite,Wolframite,,No data,None observed,,,,,,,,
+404,Maziba Katanga,2022-07-13,Sud-Kivu,0,Wolframite,,,No data,None observed,,,,,,,,
+405,Turura/Mabalako,2020-10-24,Nord-Kivu,52,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+406,Nakahebe,2023-02-21,Sud-Kivu,13,Or,,,None observed,None observed,,,,,,,,
+407,Mikenge 2,2023-02-21,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+408,Mizinga,2023-02-21,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+409,Kikundo,2020-10-24,Nord-Kivu,72,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+410,Kisitu,2020-10-23,Nord-Kivu,175,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+411,Mwana,2023-03-07,Sud-Kivu,80,Cassitérite,,,No data,Observed,Maï-Maï Lwesula,,,SAEMAPE,Division des mines,Chefferie,,
+412,Namwerwe,2022-07-13,Sud-Kivu,0,Cassitérite,Wolframite,,No data,None observed,,,,,,,,
+413,Tokou,2020-10-27,Nord-Kivu,10,Or,,,None observed,Observed,UPLC,,,,,,,
+414,Tulambo,2023-02-20,Sud-Kivu,70,Or,,,None observed,Observed,Maï-Maï Mutetezi,,,,,,,
+415,Visiki,2020-10-28,Nord-Kivu,162,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Environnement,Industrie,
+416,Kakamba/Kamenze,2022-02-17,Sud-Kivu,60,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+417,Fungamwaka I,2021-05-15,Sud-Kivu,30,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+418,Kitatenge,2022-02-04,Sud-Kivu,50,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+419,Latuzo,2021-10-15,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+420,Misumari II,2021-05-31,Sud-Kivu,40,Minerais mixtes (Cassitérite/Coltan),,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+421,Nyamisenge,2022-02-04,Sud-Kivu,32,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,DPMR,,
+422,Nyakwagiagia/Kambanyama,2022-02-02,Sud-Kivu,160,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Creuser, Traiter les déchets"
+423,Nyalumpunda,2021-12-05,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+424,Filon I,2021-05-17,Sud-Kivu,9,Cassitérite,,,No data,None observed,,,,,,,,Creuser
+425,Tchangobo,2021-12-05,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+426,Npoko/Kalusungu,2022-02-03,Sud-Kivu,60,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,DPMR,,
+427,Vatican,2022-02-17,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+428,2000 ans,2023-03-03,Tshopo,15,Or,,,None observed,None observed,,,,,,,,
+429,Alerte,2023-03-01,Tshopo,0,Diamant,,,No data,None observed,,,,,,,,
+430,Andregoss,2023-03-05,Tshopo,38,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais"
+431,Baitoli,2022-02-03,Nord-Kivu,156,Or,,,Observed,Observed,FARDC,Maï-Maï Juvenal,,SAEMAPE,,,,
+432,Bangalaka source,2023-01-21,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+433,Bercy Kanabumba,2021-12-06,Maniema,0,Or,,,No data,None observed,,,,,,,,
+434,Canada,2023-02-28,Tshopo,48,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+435,Dallas,2023-02-27,Tshopo,15,Or,,,None observed,None observed,FARDC,,,SAEMAPE,,,,
+436,Ebokoto,2023-01-21,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+437,Emva bisengo,2023-02-23,Tshopo,195,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Service des industries,,
+438,Emva tokozonga,2023-01-21,Tshopo,76,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Usage du mercure"
+439,Gbombili,2023-02-23,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+440,Gbombili-mabanga,2023-02-23,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+441,Muzingamalomba,2021-12-11,Maniema,109,Or,,,None observed,Observed,FARDC,Maï-Maï Apa Na Pale,,SAEMAPE,,,,
+442,Gécamines,2023-02-23,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+443,Kagulwe,2021-12-07,Maniema,15,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,
+444,Kamungazi katamu,2021-12-05,Maniema,97,Or,,,None observed,Observed,FARDC,Maï-Maï Malaika,,SAEMAPE,Division des mines,,,
+445,Kamunyonge,2022-01-31,Nord-Kivu,85,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,,,,,"Creuser, Traiter les déchets"
+446,Kasanga,2022-02-03,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+447,Kasolo,2021-12-10,Maniema,0,Or,,,No data,None observed,,,,,,,,
+448,Kimabwe 2,2021-12-05,Maniema,0,Or,,,No data,None observed,,,,,,,,
+449,Koweït,2023-02-25,Tshopo,12,Or,,,None observed,Observed,FARDC,,,,,,,
+450,Kuzeze,2023-02-26,Tshopo,12,Or,,,None observed,Observed,FARDC,,,,,,,
+451,Kyamboma,2022-01-30,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+452,Libeta,2022-01-01,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+453,Longue histoire,2023-03-01,Tshopo,0,Diamant,,,No data,None observed,,,,,,,,
+454,Lubanaze,2022-02-02,Nord-Kivu,38,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,,,,,
+455,Lubondozi 4,2021-12-03,Maniema,0,Or,,,No data,None observed,,,,,,,,
+456,Lwiko Rive droite,2021-12-14,Maniema,0,Or,,,No data,None observed,,,,,,,,
+457,Musumbu/Lututue,2022-01-30,Nord-Kivu,122,Or,,,None observed,Observed,Maï-Maï Juvenal,,,SAEMAPE,Division des mines,,,
+458,Lwate/Maipya/Nzamba,2022-01-31,Nord-Kivu,90,Or,,,None observed,None observed,,,,SAEMAPE,,ANR,,
+459,Lybie,2023-02-28,Tshopo,8,Or,,,None observed,None observed,,,,SAEMAPE,,,,
+460,Maakali,2022-02-03,Nord-Kivu,155,Or,,,Observed,Observed,FARDC,Maï-Maï Juvenal,,,,,,Traiter les déchets
+461,Maakuha,2022-02-02,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+462,Maanzale/Yama,2022-02-01,Nord-Kivu,120,Or,,,None observed,Observed,FARDC,,,,,,,
+463,"Mabumba, Katemo",2021-12-06,Maniema,107,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Traiter les déchets"
+464,Makasi,2023-02-24,Tshopo,22,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+465,Malulu,2022-02-03,Nord-Kivu,197,Or,,,Observed,Observed,FARDC,Maï-Maï Juvenal,,SAEMAPE,,,,
+466,Mangeni,2022-06-28,Tshopo,85,Or,,,Observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+467,Masukumani,2022-06-29,Tshopo,18,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+468,Maumo,2022-01-29,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+469,Mishengele 1,2021-12-10,Maniema,160,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,DGRMA,Groupement,
+470,Mishengele 2,2021-12-10,Maniema,0,Or,,,No data,None observed,,,,,,,,
+471,Kako,2021-12-11,Maniema,79,Or,,,None observed,Observed,FARDC,Maï-Maï Apa Na Pale,,SAEMAPE,,,,
+472,Monde entier,2023-03-01,Tshopo,27,Diamant,Or,,None observed,None observed,,,,Division des mines,,,,
+473,Mukuyu,2022-02-02,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+474,Vuhate/Nyenze,2022-01-30,Nord-Kivu,100,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,,,,,
+475,Pont kagulwe,2021-12-10,Maniema,0,Or,,,No data,None observed,,,,,,,,
+476,Projet Butembo,2023-01-21,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+477,Pyramide ll,2023-01-21,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+478,Sous-sol,2021-12-09,Maniema,0,Or,,,No data,None observed,,,,,,,,
+479,Umoja,2023-02-25,Tshopo,63,Or,,,None observed,Observed,FARDC,,,,,,,"Creuser, Lavage"
+480,Volovolo central,2023-03-02,Tshopo,850,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,DGI,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets"
+481,Yovoti,2021-11-28,Maniema,75,Or,,,Observed,Observed,Maï-Maï Malaika,FARDC,,,,,,
+482,Kabuta,2021-12-18,Maniema,170,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,CEEC,
+483,Kesise,2022-07-22,Maniema,80,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+484,Mabanga,2021-10-07,Maniema,170,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,DGI,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+485,Mapamboli,2022-02-22,Maniema,109,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,ANR,
+486,Irambo,2022-07-29,Sud-Kivu,50,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+487,Camp Limboloko,2021-05-28,Sud-Kivu,20,Cassitérite,Coltan,,No data,Observed,Raïa Mutomboki,,,SAEMAPE,Division des mines,Chefferie,,
+488,Kamikuba,2021-10-29,Sud-Kivu,45,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+489,Kanosho,2022-07-19,Sud-Kivu,100,Or,,,None observed,Observed,Raïa Mutomboki,,,Chefferie,,,,
+490,Karembo,2022-08-02,Sud-Kivu,53,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+491,Lubimbe,2022-07-19,Sud-Kivu,78,Or,,,None observed,Observed,Raïa Mutomboki,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+492,Widambo 1,2021-06-02,Sud-Kivu,30,Cassitérite,,,No data,None observed,,,,SAEMAPE,,,,
+493,Kisasa,2021-06-07,Sud-Kivu,35,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,,,,
+494,Bwalala,2021-10-08,Sud-Kivu,40,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+495,Camp Mulamba,2021-10-05,Sud-Kivu,20,Or,,,None observed,None observed,,,,SAEMAPE,,,,
+496,Kigumo,2021-10-04,Sud-Kivu,150,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+497,Hewa Bora,2022-08-03,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+498,Hopital,2022-09-11,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+499,Mangalala,2022-08-05,Maniema,90,Cassitérite,Wolframite,,No data,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+500,Matantali,2022-09-05,Tanganyika,51,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+501,Taillings,2022-08-08,Maniema,250,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+502,Amérique,2023-03-06,Tshopo,5,Or,Diamant,,None observed,None observed,FARDC,,,,,,,
+503,Double Sim,2023-02-28,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+504,Akomba,2021-12-06,Maniema,0,Or,,,No data,None observed,,,,,,,,
+505,Cololac,2022-02-26,Maniema,140,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,ANR,"Creuser, Lavage, Traiter les déchets"
+506,Kabereke,2021-11-27,Sud-Kivu,50,Cassitérite,Coltan,,No data,Observed,Maï-Maï Inconnu,,,SAEMAPE,Division des mines,,,
+507,Kimbangu,2021-11-10,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+508,Kipe yayo,2021-11-04,Tshopo,8,Or,Diamant,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Secteur,,
+509,Kontoki,2022-03-07,Maniema,66,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais"
+510,Lokoko,2022-03-04,Maniema,180,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+511,Mankali,2021-11-02,Tshopo,0,Coltan,,,No data,None observed,,,,,,,,
+512,Mankoko,2021-11-05,Tshopo,0,Or,,,No data,None observed,,,,,,,,
+513,Mapamboli 2,2022-02-22,Maniema,120,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,ANR,
+514,Mapamboli 3,2022-02-22,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+515,Matonge,2021-11-02,Tshopo,26,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Secteur,,
+516,Ndonga,2022-02-22,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+517,Nyanzala,2021-10-12,Sud-Kivu,115,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+518,Sifa,2021-11-02,Tshopo,35,Or,Coltan,Cassitérite,None observed,Observed,FARDC,,,,,,,
+519,Kakota 2,2022-03-04,Maniema,250,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+520,Tufia,2022-03-07,Maniema,47,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+521,Zua idée,2022-02-24,Maniema,130,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,ANR,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+522,Saulia,2022-07-23,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+523,Unipe Nikupe,2021-07-01,Ituri,52,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Concassage, Lavage, Transport des minerais, Traiter les déchets"
+524,Muhisi/Rukunda,2021-10-14,Nord-Kivu,35,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+525,Rukunda,2021-10-12,Nord-Kivu,160,Cassitérite,Tourmaline,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+526,Shakubangwa,2021-10-13,Nord-Kivu,200,Cassitérite,Coltan,Tourmaline,No data,None observed,,,,SAEMAPE,Division des mines,,,
+527,Basamani,2023-02-27,Tshopo,8,Or,,,None observed,None observed,,,,SAEMAPE,,,,
+528,Bireshe,2023-03-19,Nord-Kivu,120,Or,,,Observed,Observed,Guidon,,,,,,,
+529,Masio I,2023-03-11,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+530,Mulema,2023-03-12,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+531,Musipi,2021-11-15,Tanganyika,308,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,,Groupement,Transport des minerais
+532,Tukamba,2022-03-02,Tanganyika,115,Or,,,Observed,Observed,Maï-Maï Bitonto,,,,,,,"Creuser sous terre, Transport des minerais, Traiter les déchets"
+533,Mutanga,2021-09-26,Nord-Kivu,95,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+534,Mandrupepe,2021-09-27,Ituri,45,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+535,Angola,2021-07-10,Ituri,35,Or,,,None observed,Observed,FARDC,,,,,,,
+536,Camp Butembo,2021-07-17,Ituri,2,Or,,,None observed,None observed,FARDC,,,,,,,
+537,Mingazi Congo yasika,2021-07-06,Ituri,30,Or,,,Observed,Observed,FARDC,,,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,,"Creuser, Lavage, Traiter les déchets"
+538,Kaza Roho,2021-07-11,Ituri,5,Or,,,None observed,Observed,FARDC,,,,,,,Lavage
+539,Vatican,2021-07-19,Ituri,7,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+540,Bandundu,2021-09-17,Ituri,15,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,
+541,Gecamine,2021-07-07,Ituri,12,Or,,,None observed,Observed,FARDC,,,,,,,
+542,Guerite,2021-07-05,Ituri,35,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets"
+543,Sombe ya Batoto,2021-09-16,Ituri,60,Or,,,None observed,Observed,Groupe de bandits armés,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets"
+544,10 ans étoile du ciel,2021-06-30,Ituri,111,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,
+545,Mandimo 2,2021-07-20,Ituri,21,Or,,,None observed,None observed,FARDC,,,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,,
+546,Kandate,2021-07-16,Ituri,25,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri (DGRPI),,
+547,Mangombo,2021-06-21,Ituri,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Afridex,Direction Générale des recettes provinciales d'ituri,"Concassage, Transport des minerais"
+548,Safari bado,2021-06-20,Ituri,400,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Concassage, Lavage, Traiter les déchets"
+549,Ngulu Ya Mabwe,2022-09-09,Tanganyika,28,Coltan,,,No data,None observed,FARDC,,,SAEMAPE,,,,"Creuser, Lavage, Traiter les déchets"
+550,Tokobika,2022-07-22,Maniema,49,Cassitérite,,,No data,Observed,FARDC,FARDC,,SAEMAPE,Division des mines,DGRMA,,Lavage
+551,Bandron Jugement ya Nzambe,2021-09-27,Maniema,172,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,DGI,"Creuser, Lavage"
+552,Kisombe,2021-09-23,Maniema,532,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Traiter les déchets"
+553,Tuara,2021-10-08,Maniema,0,Cassitérite,Coltan,,No data,None observed,,,,,,,,
+554,Mutiri,2022-08-10,Nord-Kivu,0,Coltan,Cassitérite,,No data,None observed,,,,,,,,
+555,Nyange/Bukombo,2022-08-09,Nord-Kivu,0,Cassitérite,Coltan,,No data,None observed,,,,,,,,
+556,Piki,2022-08-10,Nord-Kivu,0,Cassitérite,Wolframite,,No data,None observed,,,,,,,,
+557,Bwita,2021-11-28,Sud-Kivu,30,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+558,Lusasa,2021-11-16,Sud-Kivu,30,Or,Cassitérite,,None observed,None observed,,,,,,,,Creuser
+559,Mabala,2021-11-03,Sud-Kivu,160,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,Aide les parent à preparer la nourriture
+560,Mikunia,2021-11-03,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+561,Nyambilo,2021-11-27,Sud-Kivu,61,Or,Cassitérite,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+562,Djimbwe,2021-11-20,Tanganyika,106,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,Groupement,,
+563,Kamangungulu,2021-05-22,Sud-Kivu,150,Cassitérite,Coltan,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,,Creuser
+564,Kanyama,2021-11-02,Sud-Kivu,57,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,DPMER,,
+565,Kasilu,2021-05-26,Sud-Kivu,10,Cassitérite,,,No data,Observed,FARDC,,,Division des mines,,,,
+566,Mayi ya batoto,2021-05-31,Sud-Kivu,15,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,,,,"Creuser, Lavage"
+567,Mwangazi,2021-06-04,Sud-Kivu,5,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,,,,
+568,Tchosho,2022-07-14,Sud-Kivu,300,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+569,Mushebeyi,2022-07-20,Sud-Kivu,30,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+570,Poto malili,2021-12-01,Nord-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+571,Kasimba,2021-11-17,Nord-Kivu,0,Coltan,,,No data,None observed,,,,,,,,
+572,Kivukulu,2022-02-18,Nord-Kivu,0,Cassitérite,,,No data,Observed,Maï-Maï FPP/AP,,,,,,,
+573,Katsape,2022-02-18,Nord-Kivu,0,Cassitérite,,,No data,Observed,Maï-Maï FPP/AP,,,,,,,
+574,Kinyavuhere,2022-02-18,Nord-Kivu,55,Or,,,None observed,None observed,,,,,,,,
+575,Katato 2,2022-09-02,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+576,Kalongwe,2022-09-02,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+577,Mamba,2022-09-28,Tanganyika,70,Or,,,Observed,Observed,FARDC,Maï-Maï Hapa na pale,,SAEMAPE,Division des mines,Groupement,,
+578,Ruziba,2021-05-30,Sud-Kivu,25,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+579,Mashuza,2021-05-24,Sud-Kivu,24,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+580,Colline 7,2023-03-08,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+581,Colline 5,2023-03-08,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+582,Kiwandawanda,2023-03-09,Sud-Kivu,50,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+583,Lugundu,2023-03-09,Sud-Kivu,150,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+584,Colline 4,2023-03-08,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+585,Nyamugengula 2,2022-07-12,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+586,Kachuba,2022-07-16,Sud-Kivu,83,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Concassage, Lavage"
+587,Nyamugengula 1,2022-07-12,Sud-Kivu,45,Or,Cassitérite,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Traiter les déchets"
+588,Kamisange,2022-01-01,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+589,Kamisange 2,2022-01-01,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+590,Bucheri,2022-02-13,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+591,Ruzizi,2022-01-01,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+592,Milanga Regeza,2022-02-12,Sud-Kivu,78,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+593,Kenge,2022-07-23,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+594,Musima 1,2021-11-21,Sud-Kivu,550,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,Creuser
+595,Basela,2022-01-23,Sud-Kivu,30,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,CNLFM,,
+596,Malinji,2022-08-05,Sud-Kivu,80,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+597,Madirha,2022-08-06,Sud-Kivu,250,Or,Cuivre,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+598,Changoboka,2022-08-05,Sud-Kivu,106,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+599,Muta Sud,2021-09-22,Sud-Kivu,55,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage, Traiter les déchets"
+600,Filon 7,2021-09-21,Sud-Kivu,150,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,DGI,Chefferie,"Creuser, Concassage, Lavage"
+601,Muta Nord,2021-10-09,Sud-Kivu,90,Or,,,None observed,Observed,FARDC,Raïa Mutomboki,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+602,Sous sol,2022-02-04,Nord-Kivu,70,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,OBLC,
+603,Matongué,2022-02-06,Nord-Kivu,210,Or,,,Observed,Observed,FARDC,,,,,,,"Lavage, Traiter les déchets"
+604,Kanda ya nini,2022-02-26,Maniema,0,Or,Cassitérite,Diamant,No data,None observed,,,,,,,,
+605,Fimbo na Fimbo,2022-02-26,Maniema,0,Or,Cassitérite,,No data,None observed,,,,,,,,
+606,Mango Tree,2022-02-21,Maniema,5,Or,,,Observed,None observed,FARDC,,,,,,,
+607,Chang Jiang,2022-02-22,Maniema,0,Or,,,No data,None observed,,,,,,,,
+608,Hewabora,2022-02-22,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+609,Butamu ya Zaïre,2022-02-24,Maniema,90,Diamant,Diamant,,No data,None observed,FARDC,,,SAEMAPE,Division des mines,,,
+610,Zolazola,2022-07-13,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+611,Bihula,2021-10-01,Nord-Kivu,20,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+612,Chamishasha,2022-01-14,Sud-Kivu,40,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+613,Camp Ibomba,2021-09-19,Maniema,1325,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Groupement,Chefferie,"Creuser, Concassage, Lavage, Traiter les déchets, Usage du mercure"
+614,Makungu,2021-10-01,Sud-Kivu,700,Or,,,Observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Secteur,CNLFM,
+615,Kuwa,2021-10-06,Sud-Kivu,225,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Secteur,Village,
+616,Lwaya,2021-09-19,Sud-Kivu,136,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Localité,CNLFM,"Creuser, Lavage, Traiter les déchets"
+617,Rivière Nzovu,2021-09-25,Sud-Kivu,80,Cassitérite,,,No data,None observed,,,,Division des mines,SAEMAPE,Chefferie,,Lavage
+618,Ngelingeli,2021-10-07,Sud-Kivu,25,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+619,Wasezya wibingilila,2021-10-04,Sud-Kivu,200,Or,,,Observed,Observed,FARDC,Police des Mines (PMH),,SAEMAPE,Division des mines,Chefferie,Division de l'environnement,"Traiter les déchets, Usage du mercure"
+620,Lusekeseke,2021-10-03,Sud-Kivu,180,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,"Lavage, Traiter les déchets"
+621,Wantunga Kanzogu,2021-10-08,Sud-Kivu,0,Or,,,None observed,None observed,,,,,,,,
+622,Kakimbalu,2021-09-29,Sud-Kivu,33,Or,,,Observed,Observed,FARDC,,,SAEMAPE,,,,
+623,Nyagisenyi,2022-08-08,Nord-Kivu,1020,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+624,Nyakajanga,2022-08-08,Nord-Kivu,0,Cassitérite,Coltan,,No data,None observed,FARDC,,,,,,,
+625,Nyabibwe,2022-08-08,Nord-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+626,Buhumba,2022-08-08,Nord-Kivu,0,Cassitérite,Coltan,,No data,Observed,Maï-Maï APCLS,,,,,,,
+627,Kashaki,2021-10-16,Nord-Kivu,45,Coltan,Cassitérite,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+628,Lumbuzi 2,2021-11-18,Sud-Kivu,45,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+629,Mumonela,2022-01-23,Sud-Kivu,45,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+630,Mulunguzi/Kazombwe,2022-02-25,Tanganyika,21,Or,Cuivre,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,,,,,
+631,Ngolwa,2022-02-22,Tanganyika,48,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Groupement,
+632,Mwangaza,2022-01-29,Sud-Kivu,60,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,DPMR,,"Creuser, Traiter les déchets"
+633,Ami bk,2022-01-28,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+634,Checheni,2022-01-13,Sud-Kivu,60,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+635,Mpama malewa,2022-02-17,Tanganyika,42,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Groupement,
+636,Umoja/Mosoko,2022-02-01,Sud-Kivu,1000,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Groupement,Anti-fraude,
+637,Lwindi nord,2022-01-31,Sud-Kivu,250,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,La groupement,,
+638,Kapilapila,2022-01-30,Sud-Kivu,600,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Groupement,DPMR,"Creuser, Lavage"
+639,Kainga,2022-01-30,Sud-Kivu,50,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+640,Lunga,2022-01-01,Tanganyika,0,Or,,,No data,None observed,,,,,,,,
+641,Hewa bora,2022-02-24,Tanganyika,0,Or,,,No data,None observed,,,,,,,,
+642,Kalusumbi,2022-02-18,Tanganyika,16,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,Groupement,"Creuser, Transport des minerais, Traiter les déchets"
+643,Makalanga,2021-10-15,Sud-Kivu,0,Or,,,No data,None observed,,,,,,,,
+644,Mambwe,2022-02-19,Tanganyika,0,Or,,,No data,None observed,,,,,,,,
+645,Bipemba,2022-08-03,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+646,Mususa nord,2022-08-03,Maniema,0,Cassitérite,Wolframite,,No data,None observed,,,,,,,,
+647,Kalosongo,2022-08-03,Maniema,0,Cassitérite,,,No data,None observed,,,,,,,,
+648,Misombo,2022-08-03,Maniema,0,Wolframite,,,No data,None observed,,,,,,,,
+649,Madesu ya Bana,2021-07-14,Ituri,9,Or,,,None observed,Observed,FARDC,,,,,,,
+650,Saba,2022-09-12,Tanganyika,80,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Groupement,,,Traiter les déchets
+651,Mantantali 2,2022-09-05,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+652,Kahemba Sud,2022-09-03,Tanganyika,300,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,,ANR,
+653,Kahemba Nord,2022-09-03,Tanganyika,150,Coltan,,,No data,Observed,FARDC,,,SAEMAPE,,,,
+654,Monga Masolo,2021-07-15,Ituri,35,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,DGRPI(Direction Générale des récettes provinciales d'ituri),,"Concassage, Lavage, Transport des minerais, Traiter les déchets"
+655,Mbisi,2022-09-11,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+656,Ngonga,2022-09-11,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+657,Mapipi bulege kagozu,2022-08-27,Sud-Kivu,400,Or,Wolframite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+658,Kashabwa,2021-05-28,Sud-Kivu,85,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,
+659,Nandele,2021-05-27,Sud-Kivu,35,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,Traiter les déchets
+660,Kwa Colonel,2021-05-29,Sud-Kivu,56,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,
+661,Amérique,2021-06-04,Sud-Kivu,20,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Creuser, Traiter les déchets"
+662,Asonge,2021-05-31,Sud-Kivu,36,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Creuser, Lavage, Traiter les déchets"
+663,Luzinzi,2022-08-06,Sud-Kivu,0,Cassitérite,Wolframite,,No data,None observed,,,,,,,,
+664,Mukamusi I,2021-09-27,Sud-Kivu,60,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+665,Zua idée,2021-09-18,Maniema,165,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Traiter les déchets"
+666,Cinquantenaire,2021-09-25,Maniema,135,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Traiter les déchets"
+667,Kasingi,2021-09-22,Maniema,145,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,"Creuser, Lavage, Usage du mercure"
+668,Mambile,2021-11-24,Nord-Kivu,0,Coltan,,,No data,None observed,,,,,,,,
+669,Etaito droite,2021-12-01,Nord-Kivu,1,Wolframite,,,No data,Observed,FARDC,,,Division des mines,,,,
+670,Etaito gauche,2021-11-30,Nord-Kivu,3,Wolframite,,,No data,Observed,FARDC,,,,,,,
+671,Magiatane,2022-03-01,Maniema,275,Or,Diamant,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+672,Gecamines,2022-03-01,Maniema,0,Or,,,No data,None observed,,,,,,,,
+673,Tcholo,2022-03-01,Maniema,75,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+674,Kilomoto1,2022-03-01,Maniema,55,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,,,,,Creuser
+675,Kaviru,2022-01-22,Nord-Kivu,41,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+676,Etogo 1,2022-03-01,Maniema,10,Or,,,Observed,Observed,FARDC,,,Division des mines,,,,
+677,Etogo 2,2022-03-01,Maniema,0,Or,,,No data,None observed,,,,,,,,
+678,Mambo Bado,2022-06-30,Ituri,0,Or,,,None observed,None observed,,,,,,,,
+679,Biholo,2022-08-11,Nord-Kivu,55,Coltan,,,No data,Observed,Maï-Maï APCLS,Shishikara,,SAEMAPE,,,,
+680,Tufia 1,2022-03-07,Maniema,0,Or,,,No data,None observed,,,,,,,,
+681,Kilomoto 2,2022-03-01,Maniema,0,Or,,,No data,None observed,,,,,,,,
+682,Nyarwenda,2022-08-18,Nord-Kivu,0,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+683,Luberike,2022-08-18,Nord-Kivu,0,Or,,,No data,None observed,,,,,,,,
+684,Mbange,2022-02-15,Nord-Kivu,75,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+685,Bandundu,2022-02-15,Nord-Kivu,350,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+686,Ma'andoga,2022-02-15,Nord-Kivu,96,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+687,Mubwahi,2022-03-21,Sud-Kivu,35,Or,Cassitérite,,None observed,Observed,Nyatura,,,,,,,
+688,Madegeri,2021-10-02,Sud-Kivu,200,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï Maï-maï Hapa na pale,SAEMAPE,Division des mines,CNLFM,Localité,"Creuser, Lavage, Traiter les déchets"
+689,Milanga,2021-09-29,Sud-Kivu,1000,Or,,,Observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Secteur,CNLFM,Traiter les déchets
+690,Kachemba,2021-09-24,Sud-Kivu,154,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Village,CNLFM,"Creuser, Lavage, Traiter les déchets"
+691,Canaan,2021-06-22,Ituri,60,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,
+692,Makpama,2021-09-28,Ituri,2,Or,,,None observed,None observed,FARDC,,,,,,,
+693,Kampala,2021-09-19,Sud-Kivu,430,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Village,,"Creuser, Lavage, Traiter les déchets"
+694,Eswiyo wapi,2022-07-04,Ituri,500,Or,,,Observed,Observed,FARDC,,,,,,,
+695,Kasilu,2021-09-24,Sud-Kivu,300,Cassitérite,,,No data,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,
+696,Kaichokea,2020-10-26,Nord-Kivu,15,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+697,Moku Centre,2022-01-10,Haut-Uele,250,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage, Transport des minerais"
+698,Onze,2022-01-22,Haut-Uele,0,Or,,,No data,None observed,,,,,,,,
+699,Camp Mbele,2022-01-20,Haut-Uele,380,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Lavage, Transport des minerais, Usage du mercure"
+700,Kutukutu,2022-01-19,Haut-Uele,168,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+701,Kadungu,2022-01-19,Haut-Uele,447,Or,,,Observed,Observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,Chefferie,Environnement,"Creuser, Lavage, Usage du mercure"
+702,Sesemakpo,2022-01-21,Haut-Uele,85,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage, Transport des minerais, Usage du mercure, Raser dans les tranchées après les activités d'abattage hydraulique"
+703,Menze Centrale,2022-01-12,Haut-Uele,500,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+704,Menze Vatican,2022-01-12,Haut-Uele,230,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+705,Toli Midi,2022-01-13,Haut-Uele,150,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+706,Kanguri,2021-05-27,Sud-Kivu,25,Or,Tourmaline,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+707,Kaziba,2021-05-23,Sud-Kivu,5,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+708,Changugu,2021-05-30,Sud-Kivu,0,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+709,Ruhuwe,2021-06-03,Sud-Kivu,50,Cassitérite,Coltan,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+710,Angote,2021-05-23,Sud-Kivu,161,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Creuser, Lavage, Traiter les déchets, Cuisinent pour les creuseurs"
+711,Mukera/Mwamba,2021-06-05,Sud-Kivu,0,Or,,,None observed,None observed,,,,,,,,
+712,Bwa'ya,2021-05-31,Sud-Kivu,77,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,DGI,Anti-fraude,"Creuser, Traiter les déchets"
+713,Mwamulenda,2021-06-02,Sud-Kivu,66,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Lavage, Traiter les déchets"
+714,Milanga,2021-06-04,Sud-Kivu,63,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Creuser, Lavage, Traiter les déchets"
+715,Mayumba,2021-06-01,Sud-Kivu,103,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,SAEMAPE,Division des mines,Anti-fraude,DGI,"Creuser, Traiter les déchets"
+716,Milachi,2021-06-07,Sud-Kivu,140,Or,,,None observed,Observed,Maï-Maï YAKUTUMBA,Maï-Maï EBUELA MUTETEZI,,SAEMAPE,Division des mines,,,
+717,Bineza,2021-05-20,Sud-Kivu,0,Cassitérite,Coltan,,No data,Observed,Raïa Mutomboki,,,,,,,
+718,Ngola,2021-05-19,Sud-Kivu,0,Cassitérite,Coltan,Coltan,None observed,Observed,Raïa Mutomboki,,,,,,,
+719,Lutumba,2021-05-20,Sud-Kivu,13,Or,,,None observed,Observed,Raïa Mutomboki,,,,,,,
+720,Africa Moto,2021-09-25,Sud-Kivu,150,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,CNPRI,,
+721,Wasezya Nyalinga,2021-10-05,Sud-Kivu,80,Or,,,Observed,Observed,FARDC,,,Division des mines,SAEMAPE,Chefferie,DPMER,"Creuser, Lavage, Traiter les déchets"
+722,Topetope,2021-09-28,Sud-Kivu,35,Cassitérite,Coltan,,No data,Observed,FARDC,Raïa Mutomboki,,Division des mines,SAEMAPE,Chefferie,,
+723,Manganèse (Wikusa),2021-09-27,Sud-Kivu,180,Cassitérite,Coltan,,No data,None observed,FARDC,,,Division des mines,SAEMAPE,Chefferie,,
+724,Kantombi,2021-09-24,Sud-Kivu,100,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+725,Kamintonko,2021-09-28,Sud-Kivu,50,Cassitérite,Coltan,,No data,None observed,FARDC,,,Division des mines,SAEMAPE,Chefferie,,
+726,Mogabilu,2021-09-29,Sud-Kivu,25,Cassitérite,Coltan,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+727,Mangwese,2021-09-29,Sud-Kivu,70,Cassitérite,Coltan,,No data,Observed,FARDC,Raïa Mutomboki,,SAEMAPE,Division des mines,Chefferie,,
+728,D20 (Ilunga2),2021-09-25,Sud-Kivu,50,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+729,Ekongye,2021-09-30,Sud-Kivu,90,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Secteur,CNLFM,
+730,Abamba,2021-09-27,Sud-Kivu,245,Or,,,None observed,Observed,Maï-Maï YAKUTUMBA,,,Village,,,,"Creuser, Lavage"
+731,100kg,2022-10-02,Tanganyika,0,Coltan,,,No data,None observed,,,,,,,,
+732,Djof,2021-09-14,Ituri,80,Or,,,Observed,Observed,FARDC,Groupe d'autodéfense Zaïre,,Afridex,,,,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+733,Lony mokili,2021-09-12,Ituri,2500,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,Groupement,Afridex,"Concassage, Lavage, Transport des minerais, Usage du mercure, Bêcher en surface à côté des maisons d'achat d'or sur ce site et dans les tranchées après la pluie pour laver la terre ou le sable puis récupérer de l'or"
+734,Dhalo,2021-09-16,Ituri,720,Or,,,Observed,Observed,FARDC,Groupe d'autodéfense Zaïre,,SAEMAPE,Division des mines,Afridex,,"Creuser, Concassage, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+735,Usine,2021-09-13,Ituri,220,Or,,,Observed,Observed,FARDC,Groupe d'autodéfense Zaïre,,SAEMAPE,Division des mines,Afridex,,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+736,Shabani,2021-09-17,Ituri,450,Or,,,Observed,Observed,FARDC,Groupe d'autodéfense Zaïre,,SAEMAPE,Division des mines,Afridex,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+737,Kudjuba,2021-09-19,Ituri,32,Or,,,Observed,Observed,FARDC,Groupe d'autodéfense Zaïre,,,,,,"Concassage, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+738,FM Bogoro,2021-09-15,Ituri,185,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,FFN,Groupement,"Creuser, Concassage, Lavage, Transport des minerais, Usage du mercure"
+739,Kiviri Delta force,2021-06-17,Ituri,25,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Traiter les déchets"
+740,Texas Usine,2021-09-01,Ituri,350,Or,,,Observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+741,Malabo Jerusalem,2021-09-09,Ituri,130,Or,,,Observed,None observed,,,,FFN,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+742,Brii,2021-09-09,Ituri,380,Or,,,Observed,None observed,,,,FFN,,,,"Creuser, Transport des minerais, Ramasser les minerais à la surface pour aller au broyage"
+743,Be Baluma,2021-08-17,Ituri,650,Or,,,Observed,None observed,,,,Division des mines,Afridex,,,"Lavage, Transport des minerais, Ramasser les minerais dans la terre en surface"
+744,Balabala,2021-08-31,Ituri,100,Or,,,None observed,Observed,Police des Mines (PMH),,,SAEMAPE,Division des mines,FFN,Afridex,"Lavage, Transport des minerais"
+745,Nizii 4,2021-08-19,Ituri,600,Or,,,None observed,None observed,,,,SAEMAPE,Chefferie,Afridex,,"Creuser, Lavage, Transport des minerais"
+746,La Grâce,2021-08-16,Ituri,520,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,FFN,Afridex,"Creuser, Lavage, Transport des minerais"
+747,Frigo,2021-09-07,Ituri,0,Or,,,None observed,None observed,,,,,,,,
+748,Camp Ketele,2021-06-23,Ituri,35,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+749,Morgue,2021-10-06,Ituri,0,Or,,,Observed,Observed,CODECO,,,,,,,
+750,Jamay,2021-08-17,Ituri,150,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais"
+751,Tsotso,2020-09-01,Ituri,450,Or,,,Observed,Observed,Codeco,,,,,,,"Concassage, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+752,Asawe,2021-09-10,Ituri,22,Or,,,None observed,Observed,FARDC,CODECO,,,,,,
+753,Jidda,2021-08-18,Ituri,95,Or,,,None observed,None observed,,,,,,,,Lavage
+754,Kpata,2021-09-06,Ituri,16,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais"
+755,Waya,2021-09-11,Ituri,85,Or,,,Observed,None observed,FARDC,,,,,,,
+756,Pamakele,2021-09-22,Ituri,65,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Direction Générale des recettes provinciales d'ituri,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+757,Funga Mukaba,2021-09-26,Ituri,16,Or,,,None observed,Observed,FARDC,,,,,,,
+758,Mane Central,2021-09-21,Ituri,10,Or,,,None observed,Observed,FARDC,,,,,,,
+759,Butale,2021-09-23,Sud-Kivu,405,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Village,CNLFM,"Creuser, Lavage, Traiter les déchets"
+760,Tulonge,2021-09-28,Sud-Kivu,400,Or,,,None observed,Observed,FARDC,Maï-Maï  YAKUTUMBA,Police des Mines (PMH),SAEMAPE,Division des mines,Village,CNLFM,"Creuser, Lavage, Traiter les déchets"
+761,Kikuka,2020-10-28,Nord-Kivu,40,Or,,,Observed,Observed,FARDC,UPLC,,SAEMAPE,Division des mines,,,
+762,Mazembe,2020-10-28,Nord-Kivu,140,Or,,,Observed,Observed,UPLC,FARDC,,SAEMAPE,Division des mines,,,
+763,Kimbimba,2020-10-31,Nord-Kivu,61,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+764,Kithokolo,2020-10-26,Nord-Kivu,86,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,INDUSTRIE,Environnement,
+765,Mangalala,2020-10-21,Nord-Kivu,60,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+766,Viritsi,2020-10-27,Nord-Kivu,5,Or,,,None observed,Observed,UPLC,,,,,,,
+767,Luba,2020-09-03,Ituri,150,Or,,,Observed,Observed,FARDC,Codeco,,,,,,"Lavage, Transport des minerais, Traiter les déchets"
+768,Baluma,2021-09-10,Ituri,750,Or,,,Observed,None observed,,,,FFN,,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets"
+769,Baragumu,2021-08-16,Ituri,96,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,Afridex,"Creuser, Lavage, Transport des minerais"
+770,Luba,2021-09-07,Ituri,160,Or,,,None observed,None observed,FARDC,,,Division des mines,FFN,,,"Creuser, Lavage, Transport des minerais"
+771,Amani Bethléem,2021-09-02,Ituri,90,Or,,,Observed,None observed,,,,Division des mines,FFN,Chefferie,Dgrpi,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+772,Basisi,2021-09-04,Ituri,40,Or,,,Observed,None observed,,,,,,,,
+773,Budjokpa,2021-09-08,Ituri,150,Or,,,Observed,None observed,,,,,,,,
+774,Djolongi,2021-09-03,Ituri,95,Or,,,Observed,None observed,,,,Division des mines,Chefferie,FFN,,"Creuser, Transport des minerais"
+775,Gû,2021-08-30,Ituri,95,Or,,,None observed,Observed,Police des Mines (PMH),,,Division des mines,FFN,Chefferie,DGRPI,"Creuser, Lavage, Transport des minerais"
+776,Kalukundu,2021-10-28,Sud-Kivu,20,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+777,Kakangala,2021-10-05,Sud-Kivu,25,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,Creuser
+778,Tosalakodi 1,2021-09-29,Maniema,122,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,DGI,
+779,Bitangala,2021-09-29,Maniema,205,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,DGI,"Creuser, Traiter les déchets, Usage du mercure"
+780,Nyangombela,2021-09-30,Maniema,130,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,DGI,
+781,Toboso,2021-10-04,Maniema,450,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+782,Kalokalo,2021-10-12,Sud-Kivu,15,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+783,Kabikokole,2021-10-13,Sud-Kivu,15,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+784,Ondombe,2021-10-29,Tshopo,38,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Chefferie,,,
+785,Paris Soir,2021-10-30,Tshopo,21,Or,,,None observed,None observed,,,,,,,,
+786,Belgique,2021-10-28,Tshopo,350,Or,,,Observed,Observed,Maï-Maï Luc,,,,,,,"Creuser, Concassage, Lavage, Transport des minerais, Usage du mercure, Raser les tranchées"
+787,Itabile,2021-10-31,Tshopo,250,Or,Coltan,,None observed,Observed,Maï-Maï Luc,,,,,,,
+788,Masoso,2021-11-02,Tshopo,13,Or,,,None observed,Observed,Maï-Maï UPRD,,,,,,,
+789,Asegera,2021-11-03,Tshopo,14,Or,,,None observed,Observed,Maï-Maï Luc,,,,,,,
+790,Gbado,2021-11-01,Tshopo,52,Or,Coltan,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,Secteur,ANR,
+791,Kingo jaune,2021-11-02,Tshopo,18,Or,Diamant,,None observed,Observed,FARDC,,,,,,,
+792,Mungu Iko,2021-11-05,Tshopo,0,Coltan,,,No data,None observed,,,,,,,,
+793,Duame,2021-11-05,Tshopo,7,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+794,Rwanda,2021-11-13,Tanganyika,26,Or,,,None observed,Observed,FARDC,Maï-Maï Bitonto,,SAEMAPE,Division des mines,Groupement,,
+795,Kanyuki,2021-11-17,Tanganyika,52,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,Groupement,,
+796,Malewa,2021-11-19,Tanganyika,19,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,,
+797,Kibi,2021-11-19,Tanganyika,100,Or,,,None observed,Observed,Maï-Maï Bitonto,,,,,,,
+798,Kabilu,2021-11-17,Sud-Kivu,100,Or,Cassitérite,,None observed,None observed,,,,,,,,"Creuser, Lavage, Traiter les déchets"
+799,Byelamanza,2021-11-21,Sud-Kivu,191,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,"Creuser, Traiter les déchets"
+800,Kitulu1,2021-11-22,Sud-Kivu,88,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,
+801,Boma kamakangi,2021-11-23,Sud-Kivu,500,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,
+802,Rumangabo,2021-11-24,Sud-Kivu,15,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+803,Manzangina/nkokya,2021-11-25,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage"
+804,Pison/kituku,2021-11-30,Sud-Kivu,150,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,Chefferie,
+805,Kandjiko,2021-11-30,Sud-Kivu,80,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,ANR,DGM,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets"
+806,Kantumba,2021-11-29,Sud-Kivu,15,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+807,Mandene,2021-11-16,Nord-Kivu,120,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+808,Kapapayi,2021-11-18,Nord-Kivu,27,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+809,Kingolyo,2021-11-18,Nord-Kivu,12,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+810,Bomalibala,2021-11-19,Nord-Kivu,40,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+811,Kaboto,2021-11-20,Nord-Kivu,28,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+812,Kikuku,2021-11-22,Nord-Kivu,23,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+813,Bouvon,2021-11-25,Nord-Kivu,16,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,Creuser
+814,Basyamusu,2021-11-26,Nord-Kivu,27,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+815,Makumo,2021-12-09,Nord-Kivu,95,Or,,,None observed,Observed,FARDC,Maï-Maï Simba,,,,,,
+816,Bizola,2021-11-29,Maniema,185,Or,,,None observed,Observed,Maï-Maï Malaika,FARDC,,,,,,
+817,Longwame,2021-11-30,Maniema,123,Or,,,None observed,Observed,FARDC,Maï-Maï Malaika,,,,,,"Creuser, Creuser sous terre, Lavage"
+818,Concasseur,2021-12-01,Maniema,350,Or,,,Observed,Observed,FARDC,Maï-Maï Malaika,Police Nationale Congolaise (sauf PMH),,,,,"Lavage, Traiter les déchets, Usage du mercure"
+819,Kasanga,2021-12-13,Maniema,120,Or,,,None observed,Observed,Maï-Maï Apa Na Pale,,,SAEMAPE,,,,
+820,Namoya,2021-12-17,Maniema,140,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,CEEC,
+821,Mabanga,2021-12-20,Maniema,89,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+822,Gao,2022-01-11,Haut-Uele,60,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Secteur,Creuser
+823,Meo,2022-01-11,Haut-Uele,47,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Traiter les déchets"
+824,Maitongo,2022-01-11,Haut-Uele,57,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,Creuser
+825,Babarau,2022-01-11,Haut-Uele,150,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+826,Mangazi,2022-01-12,Haut-Uele,200,Or,,,Observed,None observed,,,,SAEMAPE,Chefferie,Division des mines,,Lavage
+827,Toli,2022-01-13,Haut-Uele,23,Or,,,Observed,None observed,,,,,,,,
+828,Rosoroso2,2022-01-13,Haut-Uele,60,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage"
+829,Mission Moto2,2022-01-15,Haut-Uele,33,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,,,,,
+830,Dieu Merci,2022-01-17,Haut-Uele,332,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Creuser, Lavage"
+831,Kabunjanga,2022-01-17,Haut-Uele,60,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+832,CPA,2022-01-18,Haut-Uele,64,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Chefferie,"Lavage, Traiter les déchets"
+833,Djagaradja,2022-01-18,Haut-Uele,52,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Secteur,,"Creuser, Lavage"
+834,Mission Moto 1,2022-01-22,Haut-Uele,85,Or,,,Observed,Observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,Environnement,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+835,Madesu,2022-01-22,Haut-Uele,55,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,Ramassage des pierres en surface pour amener au broyage
+836,Katra,2022-01-22,Haut-Uele,85,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+837,33,2022-01-26,Haut-Uele,98,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Lavage, Usage du mercure"
+838,Temps Présent,2021-09-26,Maniema,180,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,La DGI,"Creuser, Traiter les déchets"
+839,Rugumba,2021-11-22,Tanganyika,104,Or,,,None observed,Observed,FARDC,Maï-Maï Apa Na Pale,,SAEMAPE,Division des mines,Groupement,,
+840,Midede,2021-11-27,Nord-Kivu,20,Or,,,None observed,None observed,,,,,,,,
+841,Tulungwa,2021-12-06,Maniema,50,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+842,TSM/Lukolo,2021-12-09,Maniema,12,Or,,,Observed,Observed,FARDC,Maï-Maï Apa Na Pale,,SAEMAPE,Division des mines,,,
+843,Lwiko,2021-12-14,Maniema,86,Or,,,None observed,None observed,,,,Chefferie,,,,
+844,Mbula Mbula,2022-01-20,Haut-Uele,74,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+845,Kanyuki/Moba1,2021-11-11,Sud-Kivu,150,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Chefferie,"Creuser, Concassage, Lavage, Traiter les déchets"
+846,Rwanda,2021-09-27,Maniema,85,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,DGI,"Creuser, Lavage, Traiter les déchets"
+847,Chabangi,2022-01-19,Sud-Kivu,25,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+848,Karasi,2022-01-28,Sud-Kivu,15,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+849,Ndeya/Kabikululu,2022-01-21,Sud-Kivu,30,Diamant,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+850,Kakalanya/malongo,2022-01-30,Sud-Kivu,70,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+851,Kyakankenge,2022-02-07,Sud-Kivu,120,Or,,,Observed,None observed,,,,SAEMAPE,Groupement,,,Creuser
+852,Wagila-Elila,2022-02-08,Sud-Kivu,22,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,,
+853,Kilomoto/Bongozabyaso,2022-02-15,Sud-Kivu,50,Or,Cassitérite,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+854,Kamusembe/Moscou,2022-02-16,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+855,Ifarifari,2022-01-22,Nord-Kivu,80,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+856,Mambuluku/Mutakato,2022-01-23,Nord-Kivu,55,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,Le service d'environnement,
+857,Vumulia II,2022-02-09,Nord-Kivu,48,Cassitérite,Or,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+858,Kaza roho,2022-02-09,Nord-Kivu,47,Cassitérite,Or,,Observed,None observed,,,,SAEMAPE,,,,
+859,Vumulia I,2022-02-09,Nord-Kivu,36,Cassitérite,Or,,Observed,None observed,,,,SAEMAPE,,,,
+860,10 Mille ans,2022-02-10,Nord-Kivu,65,Or,Cassitérite,,Observed,None observed,,,,SAEMAPE,Division des mines,,Le service d'environnement,
+861,Union match,2022-02-12,Nord-Kivu,35,Or,,,None observed,Observed,FARDC,,,SAEMAPE,Division des mines,,OBLC (Office pour la bonne gouvernance et la lutte contre la corruption).,
+862,Kakuma,2022-02-08,Tanganyika,132,Or,,,None observed,None observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+863,Bwali,2022-02-10,Tanganyika,25,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+864,Kibola/Kavumba,2022-02-11,Tanganyika,24,Or,,,None observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,
+865,Jean-Mari/Mushindwa,2022-02-12,Tanganyika,33,Or,,,None observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,Chefferie,,
+866,Camp Somida/Lukumbi,2022-02-12,Tanganyika,24,Or,,,None observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,Groupement,,
+867,Vodacom/Mushindwa,2022-02-12,Tanganyika,40,Or,,,None observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,Chefferie,,
+868,Kamena/Kitwi et Kali,2022-02-14,Tanganyika,40,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,ANR,,"Creuser, Traiter les déchets"
+869,Kasoro,2022-02-19,Tanganyika,31,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Groupement,,
+870,Mabwensepi,2022-02-21,Tanganyika,270,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,Groupement,
+871,Kando,2022-02-15,Tanganyika,30,Or,,,None observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Creuser, Traiter les déchets"
+872,Sumbo,2022-01-23,Nord-Kivu,63,Or,,,None observed,Observed,FARDC,Maï-Maï Juvenal,,SAEMAPE,,,,
+873,Lusasiko,2022-01-24,Nord-Kivu,328,Or,,,None observed,Observed,Maï-Maï Juvenal,,,,,,,"Creuser, Transport des minerais, Traiter les déchets"
+874,Katimbya,2022-01-24,Nord-Kivu,35,Or,,,None observed,None observed,,,,,,,,
+875,Kikimba/Kaviru,2022-01-24,Nord-Kivu,125,Or,,,None observed,None observed,,,,,,,,
+876,Kavondo,2022-01-25,Nord-Kivu,150,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,
+877,Vitsange,2022-01-26,Nord-Kivu,38,Or,,,None observed,Observed,FARDC,Maï-Maï FPP/AP,,,,,,
+878,Kitsanga,2022-01-26,Nord-Kivu,102,Or,,,None observed,Observed,FARDC,Maï-Maï FPP/AP,,,,,,Creuser
+879,Matalyo,2022-01-26,Nord-Kivu,65,Or,,,None observed,Observed,FARDC,Maï-Maï FPP/AP,,,,,,
+880,Batoto,2022-01-29,Nord-Kivu,35,Or,,,None observed,None observed,,,,SAEMAPE,,ANR,PNC,
+881,Kabanana/Lwali,2022-02-01,Nord-Kivu,63,Or,,,None observed,Observed,FARDC,,,,,,,
+882,Kabasha,2022-02-03,Nord-Kivu,138,Or,,,None observed,Observed,Maï-Maï Juvenal,,,,,,,
+883,Pitakongo,2022-02-10,Nord-Kivu,40,Or,,,Observed,Observed,Maï-Maï FPP/AP,,,,,,,
+884,Kandimo,2022-02-15,Nord-Kivu,39,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+885,Lybie,2022-02-15,Nord-Kivu,65,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+886,Kumbu,2022-02-15,Nord-Kivu,47,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+887,Runzuru,2022-02-15,Nord-Kivu,98,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+888,Kaza Roho,2022-02-15,Nord-Kivu,32,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+889,Makutanio,2022-02-15,Nord-Kivu,408,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+890,Masukurubu,2022-02-15,Nord-Kivu,200,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+891,Zua idée,2022-02-15,Nord-Kivu,87,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+892,La vie,2022-02-15,Nord-Kivu,600,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+893,Bikoko,2022-02-15,Nord-Kivu,218,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+894,Magoagoa/Mikyota,2022-02-15,Nord-Kivu,320,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,
+895,Mabombi,2022-02-15,Nord-Kivu,156,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+896,Vumilia/Ilubo,2022-02-15,Nord-Kivu,6000,Or,,,Observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,"Creuser, Lavage, Traiter les déchets"
+897,Malezia,2022-02-16,Nord-Kivu,47,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+898,Kakuka,2022-02-16,Nord-Kivu,158,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+899,Sanjin,2022-02-17,Nord-Kivu,408,Or,,,None observed,Observed,Maï-Maï FPP/AP,NDC-R,,,,,,Creuser
+900,Luveve,2022-02-18,Nord-Kivu,200,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+901,Kisavadudu,2022-02-18,Nord-Kivu,45,Or,,,None observed,Observed,Maï-Maï FPP/AP,,,,,,,
+902,Bikara,2022-02-19,Nord-Kivu,75,Or,,,None observed,None observed,,,,,,,,
+903,COMACO,2022-02-20,Maniema,70,Cuivre,,,No data,None observed,,,,SAEMAPE,,,,
+904,Stelac Loso/COMIBA,2022-02-22,Maniema,6,Or,,,Observed,None observed,FARDC,,,SAEMAPE,Division des mines,,,
+905,Amakinga,2022-02-26,Maniema,150,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+906,Yumbi,2022-03-02,Maniema,15,Or,,,Observed,None observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+907,Lowa,2022-03-05,Maniema,140,Or,Cassitérite,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+908,Lukamba/nyalubwe,2022-04-07,Sud-Kivu,70,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,Creuser
+909,Kananga /Nyamukindula,2022-04-07,Sud-Kivu,30,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+910,Zalya,2023-03-05,Sud-Kivu,70,Cassitérite,,,No data,Observed,Maï-Maï Lwesula,,,SAEMAPE,Division des mines,Chefferie,,
+911,Musokolo,2023-03-05,Sud-Kivu,200,Coltan,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+912,Mwana 2,2023-03-06,Sud-Kivu,100,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+913,Rugomoza,2023-03-08,Sud-Kivu,0,Cassitérite,,,No data,None observed,,,,,,,,
+914,Kwatende,2023-03-10,Sud-Kivu,50,Or,,,None observed,Observed,Maï-Maï Lwesula,,,SAEMAPE,Division des mines,Chefferie,,
+915,Muliza,2023-03-11,Sud-Kivu,50,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,
+916,Miza,2023-03-10,Sud-Kivu,5,Or,,,None observed,Observed,Maï-Maï Lwesula,,,Chefferie,,,,
+917,Mushwau Aval,2022-08-16,Nord-Kivu,60,Cassitérite,Coltan,,No data,Observed,Maï-Maï APCLS,,,,,,,
+918,Kasopo,2022-08-16,Nord-Kivu,0,Or,Cassitérite,Coltan,No data,None observed,,,,,,,,
+919,Mbemba,2022-08-16,Nord-Kivu,45,Or,Cassitérite,Coltan,None observed,Observed,Maï-Maï APCLS,,,,,,,
+920,Miirimbo,2022-08-16,Nord-Kivu,0,Cassitérite,Coltan,,No data,None observed,,,,,,,,
+921,Kahira,2022-08-15,Nord-Kivu,75,Cassitérite,Coltan,,No data,Observed,Maï-Maï APCLS,,,SAEMAPE,Division des mines,,,
+922,Ngululu,2022-08-17,Nord-Kivu,0,Or,Cassitérite,Coltan,No data,None observed,,,,,,,,
+923,Lulambo,2022-08-09,Nord-Kivu,25,Coltan,,,No data,Observed,Nyatura,,,,,,,
+924,Nyakishiku Braza,2022-08-11,Nord-Kivu,0,Cassitérite,Coltan,,No data,None observed,,,,,,,,
+925,Lutso,2022-08-11,Nord-Kivu,50,Coltan,,,No data,Observed,Maï-Maï APCLS,,,,,,,
+926,Kinkobongo/Kamushale,2022-09-06,Sud-Kivu,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+927,Kitumba/Kamakongo,2022-09-07,Sud-Kivu,50,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+928,Ndeya mulombyo,2022-09-03,Sud-Kivu,200,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+929,Paapa,2022-09-01,Sud-Kivu,400,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+930,Bintidila,2022-08-30,Sud-Kivu,180,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+931,Milembe/Kisege/Mulolo,2022-08-21,Sud-Kivu,400,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+932,Bakoko,2022-06-29,Ituri,175,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,ANR,"Creuser, Traiter les déchets"
+933,Bon Marché,2022-07-11,Ituri,55,Or,,,Observed,None observed,,,,,,,,
+934,Camp Base,2022-07-01,Ituri,605,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,ANR,Chefferie,
+935,Dieu Merci,2022-07-08,Ituri,150,Or,Diamant,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,
+936,Dopi,2022-07-02,Ituri,58,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,"Concassage, Lavage, Traiter les déchets"
+937,Ibakunja,2022-07-03,Ituri,105,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,"Environnement, Énergie",
+938,Koweït,2022-07-06,Haut-Uele,120,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Concassage, Lavage, Traiter les déchets"
+939,Malekesa,2022-06-28,Ituri,100,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,ANR,Chefferie,"Concassage, Traiter les déchets"
+940,Mambo Bado,2022-06-30,Ituri,62,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,DGI,
+941,Paradis,2022-07-04,Ituri,60,Or,,,Observed,Observed,FARDC,,,,,,,
+942,Site Bakeke,2022-07-01,Ituri,140,Or,,,Observed,None observed,,,,,,,,
+943,Vumulia,2022-06-29,Tshopo,48,Or,,,Observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+944,Vunja Caisse,2022-07-10,Ituri,40,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,
+945,Enva Bisengo 2,2023-02-21,Tshopo,78,Or,,,None observed,Observed,FARDC,Groupe armé non identifié,,SAEMAPE,Division des mines,Énergie,,
+946,Kentucky,2023-02-22,Tshopo,72,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Énergie,,
+947,Tour à Tour,2023-02-22,Tshopo,140,Or,,,Observed,Observed,FARDC,,,,,,,
+948,Mapendo,2023-02-26,Tshopo,26,Or,,,None observed,Observed,FARDC,,,,,,,
+949,Chicago,2023-03-01,Tshopo,42,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage"
+950,Kakanga,2023-03-14,Sud-Kivu,800,Cassitérite,Coltan,,No data,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,,
+951,Rugabano,2023-02-27,Sud-Kivu,100,Or,,,Observed,Observed,Ngomino,,,,,,,
+952,Karongozi,2023-03-07,Sud-Kivu,50,Or,,,None observed,Observed,Ngomino,,,,,,,
+953,Karonge,2023-03-07,Sud-Kivu,15,Or,,,None observed,Observed,Ngomino,,,,,,,
+954,Kalingi,2023-03-07,Sud-Kivu,6,Or,,,None observed,Observed,Ngomino,,,,,,,
+955,Makaina,2023-02-18,Sud-Kivu,35,Or,,,None observed,Observed,Maï-Maï Mutetezi,,,SAEMAPE,Division des mines,,,
+956,Katenga/Kidego,2023-02-19,Sud-Kivu,257,Or,,,Observed,Observed,Maï-Maï Mutetezi,,,SAEMAPE,Division des mines,,,
+957,Kigazura,2023-02-21,Sud-Kivu,55,Or,,,None observed,Observed,Maï-Maï Mutetezi,,,,,,,
+958,Lwelela,2023-02-23,Sud-Kivu,39,Or,,,None observed,Observed,Maï-Maï Mutetezi,,,,,,,
+959,Nakisambi,2023-02-25,Sud-Kivu,25,Or,,,None observed,Observed,Maï-Maï Mutetezi,,,,,,,
+960,Safienko,2023-03-07,Sud-Kivu,122,Or,,,Observed,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+961,Kaza Roho,2023-03-08,Sud-Kivu,15,Or,,,No data,Observed,FABB (Forces Armées Biloze Bishambuki),,,,,,,
+962,Tchamakala/Pay-Pay,2023-03-14,Maniema,100,Or,,,Observed,Observed,FARDC,FARDC,,SAEMAPE,,,,"Lavage, Traiter les déchets, Usage du mercure, La pêche"
+963,Musafiri/Kivuko,2023-03-06,Maniema,280,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),Groupe autodéfense Kems,SAEMAPE,Division des mines,,,
+964,Tobala,2023-03-06,Maniema,290,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),Groupe autodéfense Kems,SAEMAPE,,,,
+965,Musafiri rapide/Dragues,2023-03-06,Maniema,410,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),Groupe autodéfense Kems,SAEMAPE,Division des mines,,,Lavage
+966,Camp Matope) Suwa idée,2023-03-09,Maniema,96,Or,Cassitérite,,Observed,None observed,,,,Localité,,,,
+967,Tchaliba,2023-03-10,Maniema,300,Or,Cassitérite,,Observed,None observed,,,,,,,,
+968,Ponda Muda/Paypay,2023-03-11,Maniema,205,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Concassage, Lavage, Traiter les déchets, Usage du mercure"
+969,Pleine/Bukavu,2023-03-11,Maniema,160,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+970,Tambola,2023-03-13,Maniema,85,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,
+971,Dessert/Mali-mingi,2023-03-14,Maniema,140,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,
+972,Champs Pendeza,2023-03-14,Maniema,60,Or,,,Observed,Observed,FARDC,FARDC,,SAEMAPE,Division des mines,,,
+973,Dessert/Pay-Pay,2023-03-15,Maniema,180,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,ANR,,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+974,Camp Israël,2023-03-15,Maniema,85,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,,,,,
+975,Kikungwa,2023-03-19,Maniema,450,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+976,Ulindi 2,2023-03-01,Maniema,210,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,ANR,ANR,"Lavage, Traiter les déchets"
+977,Ulindi1/Kilima,2023-03-01,Maniema,85,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,"Lavage, Traiter les déchets, Usage du mercure"
+978,Mali ya Mungu,2023-02-25,Maniema,107,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,,,,"Creuser, Lavage"
+979,Société étoile d'orient,2023-03-01,Maniema,18,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,,,,,
+980,Katobo/Kazabula,2023-02-28,Maniema,160,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+981,Musafiri,2023-02-24,Maniema,95,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,,DGRMA,,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+982,Chantier 2020,2023-02-28,Maniema,145,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+983,Lutanda,2023-03-02,Maniema,106,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+984,Muma,2023-02-27,Maniema,160,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,
+985,Mali mingi,2023-02-28,Maniema,85,Or,Cassitérite,,Observed,None observed,,,,SAEMAPE,Division des mines,,,
+986,Kamingazi,2023-02-27,Maniema,350,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Lavage, Traiter les déchets, Usage du mercure"
+987,Kikwanga 2,2023-02-28,Maniema,185,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,,"Creuser, Lavage, Usage du mercure"
+988,Mukoko,2023-03-14,Nord-Kivu,100,Or,,,None observed,Observed,NDC-R,,,,,,,
+989,Mafofoki2,2023-03-14,Nord-Kivu,19,Or,,,None observed,Observed,NDC-R,,,,,,,
+990,Nyakarikari,2023-03-26,Nord-Kivu,8,Or,,,None observed,Observed,NDC-R,,,,,,,
+991,Rivière Kadubo,2022-08-01,Sud-Kivu,40,Or,,,None observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,,"Creuser, Lavage"
+992,Kalombe Nyama,2022-07-19,Maniema,85,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,CEEC,DGRMA,
+993,Moki,2022-07-19,Maniema,109,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,DGRMA,,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+994,Mungamba,2022-07-20,Maniema,86,Cassitérite,,,No data,None observed,,,,SAEMAPE,,,,
+995,Amankulu,2022-07-21,Maniema,168,Cassitérite,,,No data,Observed,FARDC,,,SAEMAPE,,,,"Creuser, Lavage, Traiter les déchets"
+996,Bloc 18 Epiration,2022-07-23,Maniema,60,Cassitérite,,,No data,None observed,,,,SAEMAPE,Division des mines,ANR,DGM,"Lavage, Traiter les déchets"
+997,Kilima vumbi,2022-07-23,Maniema,80,Cassitérite,,,No data,Observed,FARDC,Police Nationale Congolaise (sauf PMH),FARDC,SAEMAPE,Division des mines,,ANR,"Creuser, Lavage, Traiter les déchets"
+998,Tokomeka,2022-07-25,Maniema,165,Or,,,None observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Transport des sables"
+999,Bache,2022-07-30,Maniema,85,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,"Creuser, Lavage, Traiter les déchets"
+1000,Bamiyemiye,2022-07-30,Maniema,45,Cassitérite,,,No data,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,,,,,"Creuser, Lavage, Traiter les déchets"
+1001,Kangonga,2022-07-31,Maniema,102,Or,Cassitérite,,Observed,Observed,FARDC,FARDC,Police Nationale Congolaise (sauf PMH),SAEMAPE,Division des mines,,,
+1002,Metsera 2,2022-08-04,Maniema,100,Cassitérite,Wolframite,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+1003,Mangalala 1,2022-08-05,Maniema,140,Cassitérite,Wolframite,,No data,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,,,"Transport des minerais, Transport des graviers minéralisé vers le site de lavage"
+1004,Mingola,2022-08-06,Maniema,85,Wolframite,,,No data,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Concassage, Lavage, Traiter les déchets"
+1005,Kitsule,2022-08-08,Nord-Kivu,240,Coltan,Cassitérite,,No data,None observed,,,,SAEMAPE,Division des mines,,,
+1006,Muhemba,2022-08-12,Nord-Kivu,25,Cassitérite,Coltan,,No data,Observed,Maï-Maï APCLS,,,,,,,
+1007,Mafuo,2022-08-12,Nord-Kivu,10,Coltan,,,No data,Observed,Maï-Maï APCLS,,,SAEMAPE,Division des mines,,,
+1008,Kangati/Rubonga,2022-08-17,Nord-Kivu,68,Cassitérite,Coltan,Or,None observed,Observed,Maï-Maï APCLS,,,,,,,
+1009,Kaliki/Nyarwenda,2022-08-18,Nord-Kivu,320,Cassitérite,Coltan,Or,None observed,Observed,Maï-Maï APCLS,,,,,,,Creuser
+1010,Ntokwa/Makashwa,2022-08-21,Nord-Kivu,58,Or,,,None observed,Observed,NDC-R,,,Division des mines,,,,
+1011,Malimingi,2022-08-21,Nord-Kivu,1256,Or,,,None observed,Observed,NDC-R,,,Division des mines,,,,"Transport des minerais, Traiter les déchets"
+1012,Mungu Miyo,2022-08-22,Ituri,450,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1013,Leyi,2022-08-24,Ituri,65,Or,,,Observed,None observed,,,,,,,,"Creuser, Lavage, Usage du mercure"
+1014,Kikwit,2022-08-25,Ituri,180,Or,,,Observed,None observed,,,,SAEMAPE,Division des mines,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1015,Père Ignace,2022-08-27,Ituri,30,Or,,,Observed,Observed,FARDC,Autodéfense Zaïre,,,,,,"Creuser, Lavage, Transport des minerais"
+1016,Mungu Djakisa,2022-08-27,Ituri,1250,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),Autodéfense Zaïre,,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+1017,Zani Kodo,2022-08-29,Ituri,650,Or,,,Observed,None observed,Police Nationale Congolaise (sauf PMH),,,SAEMAPE,Division des mines,DGI,Afridex,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1018,Gbado,2022-08-30,Ituri,75,Or,,,Observed,None observed,,,,,,,,"Creuser sous terre, Transport des minerais, Traiter les déchets, Usage du mercure"
+1019,Kpangba 2,2022-09-01,Ituri,36,Or,,,None observed,None observed,,,,,,,,"Creuser, Lavage, Transport des minerais"
+1020,Uree,2022-09-02,Ituri,64,Or,,,None observed,None observed,,,,,,,,
+1021,Mazembe,2022-09-03,Ituri,26,Or,,,Observed,Observed,CODECO,,,,,,,Lavage
+1022,Wele,2022-09-06,Ituri,76,Or,,,Observed,None observed,,,,,,,,
+1023,Apodo,2022-09-08,Ituri,96,Or,,,Observed,None observed,,,,SAEMAPE,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+1024,Centrale,2022-09-09,Ituri,280,Or,,,Observed,None observed,,,,SAEMAPE,,,,"Creuser, Lavage, Transport des minerais, Usage du mercure"
+1025,Tuluga,2022-09-14,Tanganyika,700,Coltan,,,No data,Observed,Maï-Maï Hapa na pale,,,,,,,"Creuser, Lavage, Traiter les déchets"
+1026,Sisala Nyakibala widambo/Malanga,2022-08-22,Sud-Kivu,30,Or,,,Observed,None observed,,,,,,,,
+1027,Itokolo Mulolo,2022-08-23,Sud-Kivu,22,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1028,Mulolo kabulungu,2022-08-26,Sud-Kivu,600,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1029,kamuninga isega kamusuku,2022-08-23,Sud-Kivu,50,Or,,,Observed,None observed,,,,,,,,"Creuser, Lavage, Traiter les déchets, Usage du mercure"
+1030,Isega katakata kalyanga,2022-08-24,Sud-Kivu,58,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Anti-fraude,Chefferie,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1031,Nyakinyami,2022-08-25,Sud-Kivu,75,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,,"Creuser, Plongeur, Lavage, Traiter les déchets, Usage du mercure"
+1032,Mibanga kababile,2022-09-02,Sud-Kivu,10,Or,,,None observed,None observed,,,,,,,,
+1033,Kelela muzenzele,2022-09-05,Sud-Kivu,1000,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1034,Kisasa,2022-09-08,Sud-Kivu,10,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,,,
+1035,Kasamba/Mulombyo,2022-09-04,Sud-Kivu,17,Or,,,Observed,None observed,,,,,,,,
+1036,Kebela,2022-09-09,Sud-Kivu,50,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Anti-fraude,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1037,Kabalende1 bilembalemba/Musitu,2022-09-10,Sud-Kivu,400,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,,,,"Creuser, Creuser sous terre, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1038,Kabale2,2022-09-12,Sud-Kivu,15,Or,,,None observed,None observed,,,,,,,,
+1039,Poto Malili/Wanpongo,2022-09-12,Sud-Kivu,36,Or,,,Observed,None observed,,,,,,,,"Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1040,Nsele1,2022-09-14,Sud-Kivu,50,Or,,,Observed,Observed,FARDC,,,,,,,
+1041,Kalay,2022-09-15,Sud-Kivu,400,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Anti-fraude,
+1042,Kisasa1,2022-09-17,Sud-Kivu,500,Or,Cassitérite,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Anti-fraude,Chefferie,
+1043,Kigela/Kaziba,2022-09-15,Sud-Kivu,250,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,,,,,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1044,Mpusya kisasa3/Nganya,2022-09-19,Sud-Kivu,200,Or,,,Observed,Observed,FARDC,,,SAEMAPE,Division des mines,Chefferie,DGI,
+1045,Lukamba milrmbe,2022-09-20,Sud-Kivu,100,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
+1046,Wamugonga tubazowe,2022-09-20,Sud-Kivu,40,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,DGI,
+1047,Kyabunda,2022-09-21,Sud-Kivu,32,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Chefferie,Anti-fraude,Creuser
+1048,Kamisele,2022-09-22,Sud-Kivu,300,Or,,,Observed,Observed,FARDC,Police Nationale Congolaise (sauf PMH),,SAEMAPE,Division des mines,Anti-fraude,Chefferie,"Creuser, Lavage, Transport des minerais, Traiter les déchets, Usage du mercure"
