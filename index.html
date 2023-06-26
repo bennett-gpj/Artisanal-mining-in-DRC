@@ -1,121 +1,64 @@
-
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>The artisanal mining landscape in DRC</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div class="section">
-            <div class="container content">
-                
-                <h1 class="title">The artisanal mining landscape in DRC</h1>
-                <p>Bennett Hanson</p>
-                <p>
-                    Data is from the International Peace Information Service and filtered to only include the mines visited by investigators in Democratic Republic of Congo between October 2020 and March 2023.
- 
-                </p> 
-                An estimated 1 million miners toil as informal, artisanal miners in DRC, a country rich in resources but plagued by over 100 armed groups. Access to the artisanal mining sites — primarily gold, tin and coltan — is a source of conflict among the armed groups and often their main source of income. Because DRC's army (FARDC), police (PNC) and mining police (PMH) are often present at the mines (and involved in the corruption as well), IPIS includes these state services in the armed group category.
-              </p>
-              <p>
-                I analyzed the data from the mines visited by IPIS between October 2020 and March 2023 to look for correlations between the presence of armed groups, the use of mercury, and the use of child labor. See my findings below.
-              </p>
-              <p>
-                Explore the IPIS <a href="https://www.ipisresearch.be/mapping/webmapping/drcongo/v6/#-3/28/5/1/1/">interactive map</a>  
-                and their <a href="https://ipisresearch-dashboard.shinyapps.io/open_data_app/">database</a>.
-              </p>    
-                    
-                </p>
-                There are over 100 armed groups in eastern DRC. In my analysis, I found that at least one armed group was present at 48% of the informal, artisanal mines visited by IPIS between 2020 and 2023, while 52% had no presence of an armed group. How does this breakdown by province?</p>
-               
-            </div>
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The artisanal mining landscape in DRC</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .section {
+      padding: 2rem 1.5rem;
+    }
+    h1.title {
+      margin-bottom: 1rem;
+    }
+    h3 {
+      margin-top: 2rem;
+    }
+    h6 {
+      margin-top: 1.5rem;
+    }
+    blockquote {
+      margin: 1rem 0;
+      padding: 1rem;
+      background-color: #f5f5f5;
+    }
+  </style>
+</head>
+<body>
+  <div class="section">
+    <div class="container content">
+      <h1 class="title">The artisanal mining landscape in DRC</h1>
+      <p>Bennett Hanson</p>
+      <p>Data is from the International Peace Information Service and filtered to only include the mines visited by investigators in the Democratic Republic of Congo between October 2020 and March 2023.</p>
+      <p>An estimated 1 million miners toil as informal, artisanal miners in DRC, a country rich in resources but plagued by over 100 armed groups. Access to the artisanal mining sites — primarily gold, tin, and coltan — is a source of conflict among the armed groups and often their main source of income. Because DRC's army (FARDC), police (PNC), and mining police (PMH) are often present at the mines (and involved in the corruption as well), IPIS includes these state services in the armed group category.</p>
+      <p>I analyzed the data from the mines visited by IPIS between October 2020 and March 2023 to look for correlations between the presence of armed groups, the use of mercury, and the use of child labor. See my findings below.</p>
+      <p>Explore the IPIS <a href="https://www.ipisresearch.be/mapping/webmapping/drcongo/v6/#-3/28/5/1/1/">interactive map</a> and their <a href="https://ipisresearch-dashboard.shinyapps.io/open_data_app/">database</a>.</p>
+    </div>
 
-                <iframe title="Armed group presence by province" aria-label="Stacked Bars" id="datawrapper-chart-Liru2" src="https://datawrapper.dwcdn.net/Liru2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="289" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-                </script>
+    <iframe title="Armed group presence by province" aria-label="Stacked Bars" id="datawrapper-chart-Liru2" src="https://datawrapper.dwcdn.net/Liru2/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="289" data-external="1"></iframe>
+    
+    <h3>What are the most common armed groups seen at these mines?</h3>
 
-</div>
+    <iframe title="10 most common armed groups at DRC mines" aria-label="Bar Chart" id="datawrapper-chart-fAqfM" src="https://datawrapper.dwcdn.net/fAqfM/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="332" data-external="1"></iframe>
+    
+    <h6>It seems like the national army and the police are the most common armed groups present at the mines. How often does the reported armed group belong to a state agency like the army, the police, or the mining police?</h6>
+    
+    <p>According to my analysis of the data, when there is an armed presence at a mine, 71% of the time, it's the army or the police.</p>
 
-            <h3>What are the most common armed groups seen at these mines?<h3>
+    <h6>So, about 71% of the time an armed group is present at an artisanal mining site in DRC, it is a state force. Why is this? What's going on?</h6>
 
-            </div>
-
-             </p><iframe title="10 most common armed groups at DRC mines" aria-label="Bar Chart" id="datawrapper-chart-fAqfM" src="https://datawrapper.dwcdn.net/fAqfM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="332" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-             </script>
-               
-            </div>
-
-        <h6>It seems like the national army and the police are the most common armed groups present at the mines. How often does the reported armed group belong to a state agency like the army, the police or the mining police?<h6>
-                
-            </p>According to my analysis of the data, when there is an armed presence at a mine, 71% of the time, it's the army or the police.</p>
-
-        <h6>So, about 71% of the time an armed group is present at an artisanal mining site in DRC, it is a state force. Why is this? What's going on?</h6>
-
-            </p>The U.S. Department of State's 2022 report on human rights in DRC provides some insight:</p>
-            
-            <blockquote>"Artisanal mining remained predominantly informal, illicit, and strongly linked to both armed groups and certain elements of the FARDC [the army]. Government officials were often complicit in the smuggling of artisanal mining products, particularly gold, into Uganda and Rwanda. The law prohibits the FARDC from engaging in mineral trade, but the government did not effectively enforce the law. Criminal involvement by some FARDC units and armed groups included protection rackets, extortion, and theft. The illegal trade in minerals was both a symptom and a cause of weak governance. It illegally financed armed groups and individual elements of the SSF [state security forces] and sometimes generated revenue for traditional authorities and local and provincial governments. A June report by the UN Group of Experts reported that FARDC members trafficked and profited from untagged coltan in North Kivu Province and illegally mined and taxed gold in Ituri Province. Individual FARDC commanders also sometimes appointed civilians to manage their interests at mining sites covertly."<blockquote>
-           
-            </p>Source: <a href="https://www.state.gov/wp-content/uploads/2023/03/415610_CONGO-DEM-REP-2022-HUMAN-RIGHTS-REPORT.pdf">U.S. Department of State, 2022</a></p>
-
-            </div>
-
-
-
-                </p>
-                As soon as a European authority discovers
-                 problematic products, it triggers an international alert. 
-                 This must happen as quickly as possible, even if the danger level is still unclear.
-                  That is why some of the recalled goods are not categorised. A large proportion of these products nevertheless
-                   end up on the market before they are withdrawn from circulation.  </p>
-
-                  Among the food items for the Swiss market 
-                  that pose a serious threat, spices were the most frequently affected. 
-                  Items such as bakery products or food additives were also often deficient. 
-                  This is in absolute figures. Spices are affected by recalls disproportionately to the sales volume. 
-  
-                </p>
-                <iframe title="Herbes and spices often pose a serious danger" aria-label="Bar Chart" id="datawrapper-chart-V0nX7" src="https://datawrapper.dwcdn.net/V0nX7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="502"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-                </script>
-                <p> 
-
-                    <div class="plot-holder">
-
-                    <h3>Fake oregano is common</h3>
-                    <p>
-                   
-                </div>
-                <p>
-                    Spices are also often affected by counterfeiting.
-                     This was shown by an analysis of 23 European countries between 2019 and 2021. 
-                     Nearly 10,000 analyses were carried out. The percentage of samples which were deemed 
-                     at risk of adulteration were 17% for pepper, 14% for cumin, 11% for curcuma, 11% for saffron
-                      and 6% for paprika/chilli. Oregano was identified as the most vulnerable with 48% of samples at risk of contamination, 
-                      with olive leaves in most cases.
-
-                    </p>Among the 649 products recalled for the Swiss market with dangerous 
-                    defects were also over 50 organic articles. With a share of 8%, however, they are thus 
-                    affected with below-average frequency. Organic articles account for 
-                    a total of 11% of the market in Switzerland, according to the association Bio-Suisse.
-                     Consumers who buy organic goods can therefore feel somewhat safer. However, the purity
-                      of products is by no means guaranteed even for organic, as the figures from the European authorities show. 
-
-                    </p>
-                    
-
-                        <p><iframe title="Organic products are affected less than average by recalls" aria-label="Multiple Donuts" id="datawrapper-chart-pOh2o" src="https://datawrapper.dwcdn.net/pOh2o/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="273"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-                        </script>
-                       
-                                    
-
-               
-                
-                <p>
-                
-                </p>
-            </script>
-        </div>
-    </body>
+    <p>The U.S. Department of State's 2022 report on human rights in DRC provides some insight:</p>
+    
+    <blockquote>"Artisanal mining remained predominantly informal, illicit, and strongly linked to both armed groups and certain elements of the FARDC [the army]. Government officials were often complicit in the smuggling of artisanal mining products, particularly gold, into Uganda and Rwanda. The law prohibits the FARDC from engaging in mineral trade, but the government did not effectively enforce the law. Criminal involvement by some FARDC units and armed groups included protection rackets, extortion, and theft. The illegal trade in minerals was both a symptom and a cause of weak governance. It illegally financed armed groups and individual elements of the SSF [state security forces] and sometimes generated revenue for traditional authorities and local and provincial governments. A June report by the UN Group of Experts reported that FARDC members trafficked and profited from untagged coltan in North Kivu Province and illegally mined and taxed gold in Ituri Province. Individual FARDC commanders also sometimes appointed civilians to manage their interests at mining sites covertly."</blockquote>
+    
+    <p>Source: <a href="https://www.state.gov/wp-content/uploads/2023/03/415610_CONGO-DEM-REP-2022-HUMAN-RIGHTS-REPORT.pdf">U.S. Department of State, 2022</a></p>
+  </div>
+</body>
 </html>
