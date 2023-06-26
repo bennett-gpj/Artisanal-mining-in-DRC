@@ -19,7 +19,7 @@ I sought to analyze the data from the interactive map on artisanal mining in DRC
 
 I found which provinces are more likely to have an armed group present at their artisanal mines, the 10 most common armed groups at mines, which minerals are predominantly mined by artisanal miners, which minerals are more likely to draw armed groups, the number of gold mines per province and where mercury is most likely to be used.
 
-I collected the data from the interactive database from IPIS (https://ipisresearch-dashboard.shinyapps.io/open_data_app/).
+I collected the data from the interactive database from IPIS (https://ipisresearch-dashboard.shinyapps.io/open_data_app/). The interactive map can be found here (https://www.ipisresearch.be/mapping/webmapping/drcongo/v6/#-0.6418796932889563/29.317256256132396/11.736475519333148/1/1/).
 
 I analyzed the data in Jupyter Notebooks.
 
