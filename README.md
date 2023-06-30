@@ -1,5 +1,7 @@
 # The artisanal mining landscape in DRC
 
+## Find my page here. https://bennett-gpj.github.io/Artisanal-mining-in-DRC/
+
 I sought to analyze the data from the interactive map on artisanal mining in DRC by IPIS to find compelling insights into informal mining sector in DRC. I filtered the data to only include mines visited by IPIS after 2020 (the latest available data went to late March 2023). The angles I sought to explore are as follows:
 
 1. Armed group presence: Identify and map the mining sites with an armed group presence to expose potential links between armed conflict and mining activities.
